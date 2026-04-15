@@ -1,0 +1,33 @@
+/*
+ * Problem #78: Subsets
+ * Difficulty: Medium
+ * Submission: Try 1
+ * status: Accepted
+ * Language: cpp
+ * Date: 9/30/2024, 1:49:28 PM
+ * Link: https://leetcode.com/problems/subsets/
+ */
+
+class Solution
+{
+    public:
+        vector<vector < int>> subsets(vector<int> &nums)
+        {
+            int n = nums.size();
+            int sub = 1 << n;
+            vector<vector < int>> ans;
+            for (int i = 0; i < sub; i++)
+            {
+            vector<int> list;
+                for (int j = 0; j < n; j++)
+                {
+                    if (i &(1 << j))
+                    {
+                        list.push_back(nums[j]);
+                    }
+                }
+                ans.push_back(list);
+            }
+            return ans;
+        }
+};
