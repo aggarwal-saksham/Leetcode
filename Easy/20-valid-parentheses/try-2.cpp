@@ -1,0 +1,36 @@
+/*
+ * Problem #20: Valid Parentheses
+ * Difficulty: Easy
+ * Submission: Try 2
+ * status: Accepted
+ * Language: cpp
+ * Date: 6/27/2025, 2:04:46 AM
+ * Link: https://leetcode.com/problems/valid-parentheses/
+ */
+
+class Solution
+{
+    public:
+        bool isValid(string s)
+        {
+            stack<char> st;
+
+            for (char c: s)
+            {
+                if (c == '(' || c == '[' || c == '{')
+                {
+                    st.push(c);
+                }
+                else
+                {
+                    if (st.empty()) return false;
+                    if (c == ')' && st.top() != '(') return false;
+                    if (c == ']' && st.top() != '[') return false;
+                    if (c == '}' && st.top() != '{') return false;
+                    st.pop();
+                }
+            }
+
+            return st.empty();
+        }
+};
