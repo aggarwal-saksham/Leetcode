@@ -1,0 +1,57 @@
+/*
+ * Problem #145: Binary Tree Postorder Traversal
+ * Difficulty: Easy
+ * Submission: Try 6
+ * status: Accepted
+ * Language: cpp
+ * Date: 6/10/2026, 1:15:35 AM
+ * Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+ */
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    vector<int> postorderTraversal(TreeNode* root) {
+      TreeNode* temp = root;
+      TreeNode* curr = root;
+        vector<int> ans;
+        if(!temp) return ans;
+        stack<TreeNode*> st;
+        while(curr || !st.empty()){
+
+            if(curr){
+                st.push(curr);
+                curr = curr->left;
+            }
+
+            else{
+                temp = st.top()->right;
+                if(!temp){
+                    temp = st.top();
+                    st.pop();
+                    ans.push_back(temp->val);
+
+                    while(!st.empty() && st.top()->right == temp){
+                        temp = st.top();
+                        st.pop();
+                        ans.push_back(temp->val);
+                    }
+                }
+                else{
+                    curr = temp;
+                }
+            }
+        }
+        return ans;   
+    }
+};
