@@ -1,70 +1,40 @@
-/*
-class Node {
-  public:
-    int data;
-    Node *left;
-    Node *right;
-
-    Node(int data) {
-        data = data;
-        left = right = NULL;
-    }
-};
-*/
-
 class Solution {
   public:
-    void inorderTraversal(Node* root, vector<int> &inorder) {
-        
-        stack<Node*> st;
-        if(!root) return ;
-        Node* node = root;
-        while(true){
-            if(node){
-                st.push(node);
-                node = node->left;
-            }
+    stack<Node*> st1, st2;
 
-            else{
-                if(st.empty()) break;
-
-                node = st.top();
-                st.pop();
-
-                inorder.push_back(node->data);
-
-                node = node->right;
-            }
-
+    void pushleft(Node* node, stack<Node*>& st) {
+        while (node) {
+            st.push(node);
+            node = node->left;
         }
-        return;
     }
+
+    int next(stack<Node*>& st) {
+        Node* temp = st.top();
+        st.pop();
+        pushleft(temp->right, st);
+        return temp->data;
+    }
+
     vector<int> merge(Node *root1, Node *root2) {
-        // code here
-        vector<int> v1, v2, ans;
-        inorderTraversal(root1, v1);
-        inorderTraversal(root2, v2);
-        
-        
-        int i = 0, j = 0;
-        while(i < v1.size() && j < v2.size()){
-            if(v1[i] < v2[j]){
-                ans.push_back(v1[i]);
-                i++;
-            }
-            else{
-                ans.push_back(v2[j]);
-                j++;
-            }
+        vector<int> ans;
+
+        pushleft(root1, st1);
+        pushleft(root2, st2);
+
+        while (!st1.empty() && !st2.empty()) {
+            if (st1.top()->data <= st2.top()->data)
+                ans.push_back(next(st1));
+            else
+                ans.push_back(next(st2));
         }
-        while(i < v1.size()){
-            ans.push_back(v1[i]);
-            i++;
-        }
-        while(j < v2.size()){
-            ans.push_back(v2[j]);
-            j++;
-        }
+
+        while (!st1.empty())
+            ans.push_back(next(st1));
+
+        while (!st2.empty())
+            ans.push_back(next(st2));
+
         return ans;
     }
 };
