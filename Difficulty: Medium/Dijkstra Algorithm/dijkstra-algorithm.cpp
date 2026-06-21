@@ -23,8 +23,8 @@ class Solution {
                 int nbr = it.first;
                 int wt = it.second;
                 
-                if(dist[node] + wt < dist[nbr]){
-                    dist[nbr] = dist[node] + wt;
+                if(d + wt < dist[nbr]){
+                    dist[nbr] = d + wt;
                     pq.push({dist[nbr], nbr});
                 }
             }
