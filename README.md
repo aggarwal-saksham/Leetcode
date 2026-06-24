@@ -10,15 +10,15 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 166 | `[███░░░░░░░]` (31.0%) |
-| **Medium** | 330 | `[██████░░░░]` (61.6%) |
-| **Hard** | 40 | `[█░░░░░░░░░]` (7.5%) |
+| **Easy** | 166 | `[███░░░░░░░]` (30.9%) |
+| **Medium** | 330 | `[██████░░░░]` (61.3%) |
+| **Hard** | 42 | `[█░░░░░░░░░]` (7.8%) |
 
 ## Top Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 301 |
+| Array | 303 |
 | String | 132 |
 | Hash Table | 127 |
 | Math | 86 |
@@ -26,7 +26,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | Sorting | 67 |
 | Two Pointers | 61 |
 | Greedy | 58 |
-| Depth-First Search | 51 |
+| Depth-First Search | 53 |
 | Stack | 45 |
 
 
@@ -290,6 +290,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [LRU Cache](https://leetcode.com/problems/lru-cache/) | cpp | [View Solution](./LeetCode%2FUnknown%2Flru-cache) |
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmajority-element) |
 | LeetCode | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmajority-element-ii) |
+| LeetCode | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | cpp | [View Solution](./LeetCode%2FHard%2F827-making-a-large-island) |
 | LeetCode | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmap-of-highest-peak) |
 | LeetCode | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmax-area-of-island) |
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmax-consecutive-ones) |
@@ -338,7 +339,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmerge-triplets-to-form-target-triplet) |
 | LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmerge-two-sorted-lists) |
 | LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmiddle-of-the-linked-list) |
-| LeetCode | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmin-cost-to-connect-all-points) |
+| LeetCode | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | cpp | [View Solution](./LeetCode%2FMedium%2F1584-min-cost-to-connect-all-points) |
 | LeetCode | [Min Stack](https://leetcode.com/problems/min-stack/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fmin-stack) |
 | LeetCode | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimize-array-sum-using-divisible-replacements) |
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-absolute-difference-between-two-values) |
