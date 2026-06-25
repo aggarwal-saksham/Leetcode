@@ -1,0 +1,141 @@
+{
+  "darkMode": true,
+  "friend_identities_v2": [
+    {
+      "accounts": [
+        {
+          "handle": "sumay_m05",
+          "lastFetched": 1782385871272,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1782385871272,
+      "aliases": [],
+      "displayName": "sumay_m05",
+      "id": "d765fd5f-a108-412f-98ff-f1a64b381a9c",
+      "updatedAt": 1782385871272
+    }
+  ],
+  "notifications_enabled": false,
+  "own_username": "saksham_aggarwal",
+  "sync_history": [
+    {
+      "problems": [
+        "Accounts Merge",
+        "Most Stones Removed with Same Row or Column",
+        "Number of Operations to Make Network Connected",
+        "Number of Operations to Make Network Connected",
+        "Find the City With the Smallest Number of Neighbors at a Threshold Distance"
+      ],
+      "problemsSynced": 20,
+      "status": "success",
+      "timestamp": 1782194100326
+    },
+    {
+      "problems": [
+        "Number of Islands",
+        "Word Ladder",
+        "Number of Enclaves",
+        "Number of Enclaves",
+        "Surrounded Regions"
+      ],
+      "problemsSynced": 11,
+      "status": "success",
+      "timestamp": 1781811900613
+    },
+    {
+      "problems": [
+        "Flatten Binary Tree to Linked List",
+        "Amount of Time for Binary Tree to Be Infected",
+        "Binary Tree Inorder Traversal",
+        "Binary Tree Preorder Traversal",
+        "Recover Binary Search Tree"
+      ],
+      "problemsSynced": 6,
+      "status": "success",
+      "timestamp": 1781633884441
+    },
+    {
+      "problems": [
+        "Binary Search Tree Iterator",
+        "Binary Search Tree Iterator",
+        "Construct Binary Search Tree from Preorder Traversal",
+        "Lowest Common Ancestor of a Binary Search Tree"
+      ],
+      "problemsSynced": 4,
+      "status": "success",
+      "timestamp": 1781556444125
+    },
+    {
+      "problems": [
+        "Symmetric Tree",
+        "Same Tree",
+        "Binary Tree Maximum Path Sum",
+        "Diameter of Binary Tree",
+        "Balanced Binary Tree"
+      ],
+      "problemsSynced": 12,
+      "status": "success",
+      "timestamp": 1781119283352
+    },
+    {
+      "problems": [
+        "Binary Tree Preorder Traversal",
+        "Binary Tree Zigzag Level Order Traversal",
+        "Binary Tree Level Order Traversal",
+        "Binary Tree Inorder Traversal",
+        "Binary Tree Postorder Traversal"
+      ],
+      "problemsSynced": 7,
+      "status": "success",
+      "timestamp": 1781030745743
+    },
+    {
+      "problems": [
+        "Sliding Window Maximum",
+        "Palindrome Partitioning",
+        "Combination Sum III",
+        "Letter Combinations of a Phone Number",
+        "Subsets II"
+      ],
+      "problemsSynced": 8,
+      "status": "success",
+      "timestamp": 1780918402644
+    },
+    {
+      "problems": [
+        "Combination Sum",
+        "Subsets",
+        "Generate Binary Strings Without Adjacent Zeros",
+        "Valid Binary Strings With Cost Limit",
+        "Valid Binary Strings With Cost Limit"
+      ],
+      "problemsSynced": 10,
+      "status": "success",
+      "timestamp": 1780843641411
+    },
+    {
+      "problems": [
+        "Maximal Rectangle",
+        "Largest Rectangle in Histogram",
+        "Remove K Digits",
+        "Sum of Subarray Ranges",
+        "Sum of Subarray Ranges"
+      ],
+      "problemsSynced": 7,
+      "status": "success",
+      "timestamp": 1780395276193
+    },
+    {
+      "problems": [
+        "Trapping Rain Water",
+        "Trapping Rain Water",
+        "Next Greater Element II"
+      ],
+      "problemsSynced": 3,
+      "status": "success",
+      "timestamp": 1780338695039
+    }
+  ]
+}
