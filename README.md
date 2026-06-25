@@ -10,15 +10,15 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 166 | `[███░░░░░░░]` (30.9%) |
-| **Medium** | 330 | `[██████░░░░]` (61.3%) |
-| **Hard** | 42 | `[█░░░░░░░░░]` (7.8%) |
+| **Easy** | 167 | `[███░░░░░░░]` (30.8%) |
+| **Medium** | 333 | `[██████░░░░]` (61.4%) |
+| **Hard** | 42 | `[█░░░░░░░░░]` (7.7%) |
 
 ## Top Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 303 |
+| Array | 304 |
 | String | 132 |
 | Hash Table | 127 |
 | Math | 86 |
@@ -26,7 +26,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | Sorting | 67 |
 | Two Pointers | 61 |
 | Greedy | 58 |
-| Depth-First Search | 53 |
+| Depth-First Search | 54 |
 | Stack | 45 |
 
 
@@ -140,6 +140,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcoupon-code-validator) |
 | LeetCode | [Course Schedule](https://leetcode.com/problems/course-schedule/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcourse-schedule) |
 | LeetCode | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcourse-schedule-ii) |
+| LeetCode | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | cpp | [View Solution](./LeetCode%2FEasy%2F3963-create-grid-with-exactly-one-path) |
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fdaily-temperatures) |
 | LeetCode | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fdelete-characters-to-make-fancy-string) |
 | LeetCode | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fdelete-node-in-a-bst) |
@@ -209,6 +210,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffind-unique-binary-string) |
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffind-words-containing-character) |
 | LeetCode | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffinding-pairs-with-a-certain-sum) |
+| LeetCode | [Finish Time of Tasks I](https://leetcode.com/problems/finish-time-of-tasks-i/) | cpp | [View Solution](./LeetCode%2FMedium%2F3965-finish-time-of-tasks-i) |
 | LeetCode | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffirst-bad-version) |
 | LeetCode | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffirst-element-with-unique-frequency) |
 | LeetCode | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ffirst-matching-character-from-both-ends) |
@@ -413,6 +415,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fnumber-of-zero-filled-subarrays) |
 | LeetCode | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fodd-even-linked-list) |
 | LeetCode | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fonline-stock-span) |
+| LeetCode | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | cpp | [View Solution](./LeetCode%2FMedium%2F417-pacific-atlantic-water-flow) |
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpalindrome-linked-list) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpalindrome-number) |
 | LeetCode | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpalindrome-partitioning) |
