@@ -130,7 +130,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-sequences-to-k) |
 | LeetCode | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-special-triplets) |
 | LeetCode | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-square-submatrices-with-all-ones) |
-| LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-subarrays-with-majority-element-i) |
+| LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | cpp | [View Solution](./LeetCode%2FMedium%2F3737-count-subarrays-with-majority-element-i) |
 | LeetCode | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-subarrays-with-score-less-than-k) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-the-number-of-consistent-strings) |
 | LeetCode | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcount-total-number-of-colored-cells) |
