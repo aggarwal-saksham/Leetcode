@@ -11,18 +11,18 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
 | **Easy** | 167 | `[███░░░░░░░]` (30.8%) |
-| **Medium** | 333 | `[██████░░░░]` (61.4%) |
-| **Hard** | 42 | `[█░░░░░░░░░]` (7.7%) |
+| **Medium** | 333 | `[██████░░░░]` (61.3%) |
+| **Hard** | 43 | `[█░░░░░░░░░]` (7.9%) |
 
 ## Top Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 304 |
+| Array | 305 |
 | String | 132 |
 | Hash Table | 127 |
 | Math | 86 |
-| Dynamic Programming | 74 |
+| Dynamic Programming | 75 |
 | Sorting | 67 |
 | Two Pointers | 61 |
 | Greedy | 58 |
@@ -234,9 +234,9 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhand-of-straights) |
 | LeetCode | [Happy Number](https://leetcode.com/problems/happy-number/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhappy-number) |
 | LeetCode | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhexadecimal-and-hexatrigesimal-conversion) |
-| LeetCode | [House Robber](https://leetcode.com/problems/house-robber/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhouse-robber) |
+| LeetCode | [House Robber](https://leetcode.com/problems/house-robber/) | cpp | [View Solution](./LeetCode%2FMedium%2F198-house-robber) |
 | LeetCode | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhouse-robber-ii) |
-| LeetCode | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhouse-robber-iii) |
+| LeetCode | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | cpp | [View Solution](./LeetCode%2FMedium%2F337-house-robber-iii) |
 | LeetCode | [House Robber V](https://leetcode.com/problems/house-robber-v/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fhouse-robber-v) |
 | LeetCode | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fidentify-the-largest-outlier-in-an-array) |
 | LeetCode | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fimplement-queue-using-stacks) |
@@ -355,7 +355,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-cost-to-split-into-ones) |
 | LeetCode | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-deletion-cost-to-make-all-characters-equal) |
 | LeetCode | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-deletions-to-make-string-k-special) |
-| LeetCode | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-falling-path-sum) |
+| LeetCode | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | cpp | [View Solution](./LeetCode%2FMedium%2F931-minimum-falling-path-sum) |
 | LeetCode | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-insertion-steps-to-make-a-string-palindrome) |
 | LeetCode | [Minimum K to Reduce Array Within Limit](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-k-to-reduce-array-within-limit) |
 | LeetCode | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-length-of-string-after-operations) |
@@ -373,7 +373,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-operations-to-make-array-modulo-alternating-i) |
 | LeetCode | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-operations-to-make-array-parity-alternating) |
 | LeetCode | [Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-operations-to-reach-target-array) |
-| LeetCode | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-path-sum) |
+| LeetCode | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | cpp | [View Solution](./LeetCode%2FMedium%2F64-minimum-path-sum) |
 | LeetCode | [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-prefix-removal-to-make-array-strictly-increasing) |
 | LeetCode | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-size-subarray-sum) |
 | LeetCode | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fminimum-string-length-after-removing-substrings) |
@@ -425,7 +425,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-array-for-maximum-sum) |
 | LeetCode | [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-array-into-k-distinct-groups) |
 | LeetCode | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-array-such-that-maximum-difference-is-k) |
-| LeetCode | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-equal-subset-sum) |
+| LeetCode | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | cpp | [View Solution](./LeetCode%2FMedium%2F416-partition-equal-subset-sum) |
 | LeetCode | [Partition Labels](https://leetcode.com/problems/partition-labels/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-labels) |
 | LeetCode | [Partition String ](https://leetcode.com/problems/partition-string/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpartition-string) |
 | LeetCode | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fpascals-triangle) |
@@ -540,7 +540,7 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftop-k-frequent-elements) |
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftraffic-signal-color) |
 | LeetCode | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftrapping-rain-water) |
-| LeetCode | [Triangle](https://leetcode.com/problems/triangle/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftriangle) |
+| LeetCode | [Triangle](https://leetcode.com/problems/triangle/) | cpp | [View Solution](./LeetCode%2FMedium%2F120-triangle) |
 | LeetCode | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftrim-trailing-vowels) |
 | LeetCode | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftruncate-sentence) |
 | LeetCode | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | cpp | [View Solution](./LeetCode%2FUnknown%2Ftuple-with-same-product) |
@@ -552,8 +552,8 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fugly-number-ii) |
 | LeetCode | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | cpp | [View Solution](./LeetCode%2FUnknown%2Funcommon-words-from-two-sentences) |
 | LeetCode | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | cpp | [View Solution](./LeetCode%2FUnknown%2Funique-3-digit-even-numbers) |
-| LeetCode | [Unique Paths](https://leetcode.com/problems/unique-paths/) | cpp | [View Solution](./LeetCode%2FUnknown%2Funique-paths) |
-| LeetCode | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Funique-paths-ii) |
+| LeetCode | [Unique Paths](https://leetcode.com/problems/unique-paths/) | cpp | [View Solution](./LeetCode%2FMedium%2F62-unique-paths) |
+| LeetCode | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | cpp | [View Solution](./LeetCode%2FMedium%2F63-unique-paths-ii) |
 | LeetCode | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Funique-paths-iii) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fvalid-anagram) |
 | LeetCode | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fvalid-binary-strings-with-cost-limit) |
