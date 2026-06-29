@@ -91,8 +91,8 @@ Showcasing my LeetCode solutions synced automatically by [L'Amigo](https://githu
 | LeetCode | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcircular-sentence) |
 | LeetCode | [Clear Digits](https://leetcode.com/problems/clear-digits/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fclear-digits) |
 | LeetCode | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fclimbing-stairs) |
-| LeetCode | [Coin Change](https://leetcode.com/problems/coin-change/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcoin-change) |
-| LeetCode | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcoin-change-ii) |
+| LeetCode | [Coin Change](https://leetcode.com/problems/coin-change/) | cpp | [View Solution](./LeetCode%2FMedium%2F322-coin-change) |
+| LeetCode | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | cpp | [View Solution](./LeetCode%2FMedium%2F518-coin-change-ii) |
 | LeetCode | [Combination Sum](https://leetcode.com/problems/combination-sum/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcombination-sum) |
 | LeetCode | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcombination-sum-ii) |
 | LeetCode | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | cpp | [View Solution](./LeetCode%2FUnknown%2Fcombination-sum-iii) |
