@@ -21,10 +21,17 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-06-29 | Leetcode | Longest Palindromic Subsequence | cpp |
 | 2026-06-29 | Leetcode | Longest Palindromic Subsequence | cpp |
 | 2026-06-29 | Leetcode | Longest Palindromic Subsequence | cpp |
+| 2026-06-29 | Leetcode | Longest Common Subsequence | cpp |
+| 2026-06-29 | Leetcode | Longest Common Subsequence | cpp |
+| 2026-06-29 | Leetcode | Longest Common Subsequence | cpp |
 | 2026-06-28 | Leetcode | Coin Change II | cpp |
 | 2026-06-28 | Leetcode | Coin Change II | cpp |
 | 2026-06-28 | Leetcode | Coin Change | cpp |
+| 2026-06-28 | Leetcode | Coin Change | cpp |
+| 2026-06-28 | Leetcode | Target Sum | cpp |
+| 2026-06-28 | Leetcode | Target Sum | cpp |
 | 2026-06-28 | Leetcode | Partition Equal Subset Sum | cpp |
+| 2026-06-27 | Leetcode | Cherry Pickup II | cpp |
 | 2026-06-27 | Leetcode | Minimum Falling Path Sum | cpp |
 | 2026-06-27 | Leetcode | Minimum Falling Path Sum | cpp |
 | 2026-06-27 | Leetcode | Minimum Falling Path Sum | cpp |
@@ -40,6 +47,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-06-26 | Leetcode | House Robber | cpp |
 | 2026-06-26 | Leetcode | House Robber | cpp |
 | 2026-06-25 | Leetcode | Count Subarrays With Majority Element I | cpp |
+| 2026-06-24 | Leetcode | Maximum Manhattan Distance After All Moves | cpp |
 | 2026-06-24 | Leetcode | Pacific Atlantic Water Flow | cpp |
 | 2026-06-24 | Leetcode | Finish Time of Tasks I | cpp |
 | 2026-06-24 | Leetcode | Create Grid With Exactly One Path | cpp |
