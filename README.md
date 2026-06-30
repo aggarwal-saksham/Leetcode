@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-543_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-545_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 543 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 545 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **543** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **545** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -117,6 +117,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Unknown/check-if-array-is-sorted-and-rotated) |
 | LeetCode | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | cpp | [View Solution](./LeetCode/Unknown/check-if-n-and-its-double-exist) |
 | LeetCode | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | cpp | [View Solution](./LeetCode/Unknown/check-if-one-string-swap-can-make-strings-equal) |
+| LeetCode | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | cpp | [View Solution](./LeetCode/Hard/1463-cherry-pickup-ii) |
 | LeetCode | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | cpp | [View Solution](./LeetCode/Unknown/circular-sentence) |
 | LeetCode | [Clear Digits](https://leetcode.com/problems/clear-digits/) | cpp | [View Solution](./LeetCode/Unknown/clear-digits) |
 | LeetCode | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | cpp | [View Solution](./LeetCode/Unknown/climbing-stairs) |
@@ -174,7 +175,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | cpp | [View Solution](./LeetCode/Unknown/delete-characters-to-make-fancy-string) |
 | LeetCode | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | cpp | [View Solution](./LeetCode/Unknown/delete-node-in-a-bst) |
 | LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-node-in-a-linked-list) |
-| LeetCode | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | cpp | [View Solution](./LeetCode/Unknown/delete-operation-for-two-strings) |
+| LeetCode | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | cpp | [View Solution](./LeetCode/Medium/583-delete-operation-for-two-strings) |
 | LeetCode | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-the-middle-node-of-a-linked-list) |
 | LeetCode | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | cpp | [View Solution](./LeetCode/Unknown/design-event-manager) |
 | LeetCode | [Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/) | cpp | [View Solution](./LeetCode/Unknown/design-ride-sharing-system) |
@@ -191,7 +192,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | cpp | [View Solution](./LeetCode/Unknown/divide-two-integers) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | cpp | [View Solution](./LeetCode/Unknown/divisible-and-non-divisible-sums-difference) |
 | LeetCode | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | cpp | [View Solution](./LeetCode/Unknown/earliest-time-to-finish-one-task) |
-| LeetCode | [Edit Distance](https://leetcode.com/problems/edit-distance/) | cpp | [View Solution](./LeetCode/Unknown/edit-distance) |
+| LeetCode | [Edit Distance](https://leetcode.com/problems/edit-distance/) | cpp | [View Solution](./LeetCode/Medium/72-edit-distance) |
 | LeetCode | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | cpp | [View Solution](./LeetCode/Unknown/evaluate-reverse-polish-notation) |
 | LeetCode | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | cpp | [View Solution](./LeetCode/Unknown/excel-sheet-column-number) |
 | LeetCode | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | cpp | [View Solution](./LeetCode/Unknown/excel-sheet-column-title) |
@@ -307,7 +308,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-arithmetic-subsequence) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | cpp | [View Solution](./LeetCode/Unknown/longest-common-prefix) |
 | LeetCode | [Longest Common Prefix Between Adjacent Strings After Removals](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/) | cpp | [View Solution](./LeetCode/Unknown/longest-common-prefix-between-adjacent-strings-after-removals) |
-| LeetCode | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-common-subsequence) |
+| LeetCode | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | cpp | [View Solution](./LeetCode/Medium/1143-longest-common-subsequence) |
 | LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-consecutive-sequence) |
 | LeetCode | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-harmonious-subsequence) |
 | LeetCode | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-increasing-subsequence) |
@@ -343,6 +344,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | cpp | [View Solution](./LeetCode/Unknown/maximum-difference-by-remapping-a-digit) |
 | LeetCode | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | cpp | [View Solution](./LeetCode/Unknown/maximum-erasure-value) |
 | LeetCode | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | cpp | [View Solution](./LeetCode/Unknown/maximum-frequency-stack) |
+| LeetCode | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | cpp | [View Solution](./LeetCode/Medium/3968-maximum-manhattan-distance-after-all-moves) |
 | LeetCode | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) | cpp | [View Solution](./LeetCode/Unknown/maximum-manhattan-distance-after-k-changes) |
 | LeetCode | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | cpp | [View Solution](./LeetCode/Unknown/maximum-matching-of-players-with-trainers) |
 | LeetCode | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | cpp | [View Solution](./LeetCode/Unknown/maximum-nesting-depth-of-the-parentheses) |
@@ -601,7 +603,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/vowels-game-in-a-string) |
 | LeetCode | [Water Bottles](https://leetcode.com/problems/water-bottles/) | cpp | [View Solution](./LeetCode/Unknown/water-bottles) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Unknown/weighted-word-mapping) |
-| LeetCode | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | cpp | [View Solution](./LeetCode/Unknown/wildcard-matching) |
+| LeetCode | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | cpp | [View Solution](./LeetCode/Hard/44-wildcard-matching) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Unknown/word-break) |
 | LeetCode | [Word Ladder](https://leetcode.com/problems/word-ladder/) | cpp | [View Solution](./LeetCode/Unknown/word-ladder) |
 | LeetCode | [Word Search](https://leetcode.com/problems/word-search/) | cpp | [View Solution](./LeetCode/Unknown/word-search) |
