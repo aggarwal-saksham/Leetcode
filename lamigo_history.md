@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-02 | Leetcode | Intersection of Two Linked Lists | cpp |
 | 2026-07-02 | Leetcode | Add Two Numbers | cpp |
 | 2026-07-02 | Leetcode | Reverse Linked List | cpp |
 | 2026-07-02 | Leetcode | Odd Even Linked List | cpp |
