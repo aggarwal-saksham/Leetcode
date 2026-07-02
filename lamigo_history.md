@@ -4,6 +4,20 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-02 | Leetcode | Add Two Numbers | cpp |
+| 2026-07-02 | Leetcode | Reverse Linked List | cpp |
+| 2026-07-02 | Leetcode | Odd Even Linked List | cpp |
+| 2026-07-02 | Leetcode | Odd Even Linked List | cpp |
+| 2026-07-02 | Leetcode | Find a Safe Walk Through a Grid | cpp |
+| 2026-07-01 | Leetcode | Remove Nth Node From End of List | cpp |
+| 2026-07-01 | Leetcode | Palindrome Linked List | cpp |
+| 2026-07-01 | Leetcode | Linked List Cycle II | cpp |
+| 2026-07-01 | Leetcode | Linked List Cycle | cpp |
+| 2026-07-01 | Leetcode | Reverse Linked List | cpp |
+| 2026-07-01 | Leetcode | Middle of the Linked List | cpp |
+| 2026-07-01 | Leetcode | Delete Node in a Linked List | cpp |
+| 2026-07-01 | Leetcode | Delete Node in a Linked List | cpp |
+| 2026-07-01 | Leetcode | Find the Safest Path in a Grid | cpp |
 | 2026-06-30 | Leetcode | Longest Increasing Subsequence | cpp |
 | 2026-06-30 | Leetcode | Longest Increasing Subsequence | cpp |
 | 2026-06-30 | Leetcode | Best Time to Buy and Sell Stock with Transaction Fee | cpp |
