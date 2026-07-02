@@ -281,7 +281,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Insert Interval](https://leetcode.com/problems/insert-interval/) | cpp | [View Solution](./LeetCode/Unknown/insert-interval) |
 | LeetCode | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/insert-into-a-binary-search-tree) |
 | LeetCode | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | cpp | [View Solution](./LeetCode/Unknown/integer-to-roman) |
-| LeetCode | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | cpp | [View Solution](./LeetCode/Unknown/intersection-of-two-linked-lists) |
+| LeetCode | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | cpp | [View Solution](./LeetCode/Easy/160-intersection-of-two-linked-lists) |
 | LeetCode | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/invert-binary-tree) |
 | LeetCode | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | cpp | [View Solution](./LeetCode/Unknown/is-graph-bipartite) |
 | LeetCode | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | cpp | [View Solution](./LeetCode/Unknown/isomorphic-strings) |
@@ -448,7 +448,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | cpp | [View Solution](./LeetCode/Unknown/number-of-ways-to-divide-a-long-corridor) |
 | LeetCode | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | cpp | [View Solution](./LeetCode/Unknown/number-of-ways-to-split-array) |
 | LeetCode | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/number-of-zero-filled-subarrays) |
-| LeetCode | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/odd-even-linked-list) |
+| LeetCode | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | cpp | [View Solution](./LeetCode/Medium/328-odd-even-linked-list) |
 | LeetCode | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | cpp | [View Solution](./LeetCode/Unknown/online-stock-span) |
 | LeetCode | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | cpp | [View Solution](./LeetCode/Medium/417-pacific-atlantic-water-flow) |
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-linked-list) |
@@ -494,7 +494,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | cpp | [View Solution](./LeetCode/Unknown/restore-finishing-order) |
 | LeetCode | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | cpp | [View Solution](./LeetCode/Unknown/reverse-integer) |
 | LeetCode | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/reverse-letters-then-special-characters-in-a-string) |
-| LeetCode | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/reverse-linked-list) |
+| LeetCode | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | cpp | [View Solution](./LeetCode/Easy/206-reverse-linked-list) |
 | LeetCode | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | cpp | [View Solution](./LeetCode/Unknown/reverse-linked-list-ii) |
 | LeetCode | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | cpp | [View Solution](./LeetCode/Unknown/reverse-nodes-in-k-group) |
 | LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | cpp | [View Solution](./LeetCode/Unknown/reverse-string-prefix) |
