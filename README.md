@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-545_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-547_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 545 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 547 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **545** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **547** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -40,14 +40,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
 | **Easy** | 167 | `[███░░░░░░░]` (30.6%) |
-| **Medium** | 335 | `[██████░░░░]` (61.5%) |
+| **Medium** | 336 | `[██████░░░░]` (61.5%) |
 | **Hard** | 43 | `[█░░░░░░░░░]` (7.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 307 |
+| Array | 308 |
 | String | 133 |
 | Hash Table | 127 |
 | Math | 87 |
@@ -70,7 +70,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | cpp | [View Solution](./LeetCode/Unknown/absolute-difference-between-maximum-and-minimum-k-elements) |
 | LeetCode | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | cpp | [View Solution](./LeetCode/Unknown/accounts-merge) |
 | LeetCode | [Add Strings](https://leetcode.com/problems/add-strings/) | cpp | [View Solution](./LeetCode/Unknown/add-strings) |
-| LeetCode | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | cpp | [View Solution](./LeetCode/Unknown/add-two-numbers) |
+| LeetCode | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | cpp | [View Solution](./LeetCode/Medium/2-add-two-numbers) |
 | LeetCode | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | cpp | [View Solution](./LeetCode/Unknown/alice-and-bob-playing-flower-game) |
 | LeetCode | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/all-nodes-distance-k-in-binary-tree) |
 | LeetCode | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | cpp | [View Solution](./LeetCode/Unknown/amount-of-time-for-binary-tree-to-be-infected) |
@@ -85,7 +85,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | cpp | [View Solution](./LeetCode/Hard/123-best-time-to-buy-and-sell-stock-iii) |
 | LeetCode | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-iv) |
 | LeetCode | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-v) |
-| LeetCode | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-with-cooldown) |
+| LeetCode | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | cpp | [View Solution](./LeetCode/Medium/309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | LeetCode | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | cpp | [View Solution](./LeetCode/Medium/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | LeetCode | [Binary Search](https://leetcode.com/problems/binary-search/) | cpp | [View Solution](./LeetCode/Unknown/binary-search) |
 | LeetCode | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-iterator) |
@@ -174,7 +174,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode/Unknown/daily-temperatures) |
 | LeetCode | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | cpp | [View Solution](./LeetCode/Unknown/delete-characters-to-make-fancy-string) |
 | LeetCode | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | cpp | [View Solution](./LeetCode/Unknown/delete-node-in-a-bst) |
-| LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-node-in-a-linked-list) |
+| LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Medium/237-delete-node-in-a-linked-list) |
 | LeetCode | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | cpp | [View Solution](./LeetCode/Medium/583-delete-operation-for-two-strings) |
 | LeetCode | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-the-middle-node-of-a-linked-list) |
 | LeetCode | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | cpp | [View Solution](./LeetCode/Unknown/design-event-manager) |
@@ -202,6 +202,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Final Element After Subarray Deletions](https://leetcode.com/problems/final-element-after-subarray-deletions/) | cpp | [View Solution](./LeetCode/Unknown/final-element-after-subarray-deletions) |
 | LeetCode | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | cpp | [View Solution](./LeetCode/Unknown/final-prices-with-a-special-discount-in-a-shop) |
 | LeetCode | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | cpp | [View Solution](./LeetCode/Unknown/find-a-peak-element-ii) |
+| LeetCode | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | cpp | [View Solution](./LeetCode/Medium/3286-find-a-safe-walk-through-a-grid) |
 | LeetCode | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/find-all-k-distant-indices-in-an-array) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | cpp | [View Solution](./LeetCode/Unknown/find-closest-person) |
 | LeetCode | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/find-elements-in-a-contaminated-binary-tree) |
@@ -231,6 +232,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | cpp | [View Solution](./LeetCode/Unknown/find-the-number-of-distinct-colors-among-the-balls) |
 | LeetCode | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | cpp | [View Solution](./LeetCode/Unknown/find-the-original-typed-string-i) |
 | LeetCode | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | cpp | [View Solution](./LeetCode/Unknown/find-the-prefix-common-array-of-two-arrays) |
+| LeetCode | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | cpp | [View Solution](./LeetCode/Medium/2812-find-the-safest-path-in-a-grid) |
 | LeetCode | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | cpp | [View Solution](./LeetCode/Unknown/find-the-score-difference-in-a-game) |
 | LeetCode | [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | cpp | [View Solution](./LeetCode/Unknown/find-the-sequence-of-strings-appeared-on-the-screen) |
 | LeetCode | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | cpp | [View Solution](./LeetCode/Unknown/find-the-smallest-divisor-given-a-threshold) |
@@ -302,7 +304,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | cpp | [View Solution](./LeetCode/Unknown/letter-combinations-of-a-phone-number) |
 | LeetCode | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | cpp | [View Solution](./LeetCode/Unknown/letter-tile-possibilities) |
 | LeetCode | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | cpp | [View Solution](./LeetCode/Unknown/lfu-cache) |
-| LeetCode | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | cpp | [View Solution](./LeetCode/Unknown/linked-list-cycle) |
+| LeetCode | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | cpp | [View Solution](./LeetCode/Easy/141-linked-list-cycle) |
 | LeetCode | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | cpp | [View Solution](./LeetCode/Unknown/linked-list-cycle-ii) |
 | LeetCode | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/linked-list-in-binary-tree) |
 | LeetCode | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-arithmetic-subsequence) |
