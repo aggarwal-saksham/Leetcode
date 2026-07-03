@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-547_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 547 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **547** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -177,6 +177,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Medium/237-delete-node-in-a-linked-list) |
 | LeetCode | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | cpp | [View Solution](./LeetCode/Medium/583-delete-operation-for-two-strings) |
 | LeetCode | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-the-middle-node-of-a-linked-list) |
+| LeetCode | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | cpp | [View Solution](./LeetCode/Unknown/design-browser-history) |
 | LeetCode | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | cpp | [View Solution](./LeetCode/Unknown/design-event-manager) |
 | LeetCode | [Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/) | cpp | [View Solution](./LeetCode/Unknown/design-ride-sharing-system) |
 | LeetCode | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | cpp | [View Solution](./LeetCode/Unknown/design-spreadsheet) |
@@ -374,7 +375,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | cpp | [View Solution](./LeetCode/Unknown/merge-nodes-in-between-zeros) |
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/merge-sorted-array) |
 | LeetCode | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | cpp | [View Solution](./LeetCode/Unknown/merge-triplets-to-form-target-triplet) |
-| LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode/Unknown/merge-two-sorted-lists) |
+| LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode/Easy/21-merge-two-sorted-lists) |
 | LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/middle-of-the-linked-list) |
 | LeetCode | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | cpp | [View Solution](./LeetCode/Medium/1584-min-cost-to-connect-all-points) |
 | LeetCode | [Min Stack](https://leetcode.com/problems/min-stack/) | cpp | [View Solution](./LeetCode/Unknown/min-stack) |
@@ -427,6 +428,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | cpp | [View Solution](./LeetCode/Unknown/n-queens-ii) |
 | LeetCode | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | cpp | [View Solution](./LeetCode/Unknown/neighboring-bitwise-xor) |
 | LeetCode | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | cpp | [View Solution](./LeetCode/Unknown/network-delay-time) |
+| LeetCode | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | cpp | [View Solution](./LeetCode/Hard/3620-network-recovery-pathways) |
 | LeetCode | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-i) |
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-ii) |
 | LeetCode | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-iii) |
@@ -504,7 +506,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | cpp | [View Solution](./LeetCode/Unknown/root-equals-sum-of-children) |
 | LeetCode | [Rotate Array](https://leetcode.com/problems/rotate-array/) | cpp | [View Solution](./LeetCode/Unknown/rotate-array) |
 | LeetCode | [Rotate Image](https://leetcode.com/problems/rotate-image/) | cpp | [View Solution](./LeetCode/Unknown/rotate-image) |
-| LeetCode | [Rotate List](https://leetcode.com/problems/rotate-list/) | cpp | [View Solution](./LeetCode/Unknown/rotate-list) |
+| LeetCode | [Rotate List](https://leetcode.com/problems/rotate-list/) | cpp | [View Solution](./LeetCode/Medium/61-rotate-list) |
 | LeetCode | [Rotate Non Negative Elements](https://leetcode.com/problems/rotate-non-negative-elements/) | cpp | [View Solution](./LeetCode/Unknown/rotate-non-negative-elements) |
 | LeetCode | [Rotate String](https://leetcode.com/problems/rotate-string/) | cpp | [View Solution](./LeetCode/Unknown/rotate-string) |
 | LeetCode | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | cpp | [View Solution](./LeetCode/Unknown/rotting-oranges) |
