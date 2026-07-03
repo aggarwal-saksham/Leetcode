@@ -4,6 +4,12 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-03 | Leetcode | Network Recovery Pathways | cpp |
+| 2026-07-02 | Leetcode | Design Browser History | cpp |
+| 2026-07-02 | Leetcode | Sort List | cpp |
+| 2026-07-02 | Leetcode | Merge k Sorted Lists | cpp |
+| 2026-07-02 | Leetcode | Merge Two Sorted Lists | cpp |
+| 2026-07-02 | Leetcode | Rotate List | cpp |
 | 2026-07-02 | Leetcode | Intersection of Two Linked Lists | cpp |
 | 2026-07-02 | Leetcode | Add Two Numbers | cpp |
 | 2026-07-02 | Leetcode | Reverse Linked List | cpp |
