@@ -1,5 +1,13 @@
 [
   {
+    "id": "2053556493",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1782998725000,
+    "title": "Intersection of Two Linked Lists",
+    "titleSlug": "intersection-of-two-linked-lists"
+  },
+  {
     "id": "2053537414",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7872,10 +7880,50 @@
     "titleSlug": "reverse-integer"
   },
   {
-    "id": "2053556493",
-    "title": "Intersection of Two Linked Lists",
-    "titleSlug": "intersection-of-two-linked-lists",
-    "timestamp": 1782998725000,
+    "id": "2054340056",
+    "title": "Network Recovery Pathways",
+    "titleSlug": "network-recovery-pathways",
+    "timestamp": 1783062189000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053940187",
+    "title": "Design Browser History",
+    "titleSlug": "design-browser-history",
+    "timestamp": 1783019619000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053907946",
+    "title": "Sort List",
+    "titleSlug": "sort-list",
+    "timestamp": 1783017371000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053888715",
+    "title": "Merge k Sorted Lists",
+    "titleSlug": "merge-k-sorted-lists",
+    "timestamp": 1783016365000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053848821",
+    "title": "Merge Two Sorted Lists",
+    "titleSlug": "merge-two-sorted-lists",
+    "timestamp": 1783014465000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2053841704",
+    "title": "Rotate List",
+    "titleSlug": "rotate-list",
+    "timestamp": 1783014134000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
