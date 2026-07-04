@@ -1,5 +1,77 @@
 [
   {
+    "id": "2054815595",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783092827000,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "2054632725",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783080678000,
+    "title": "Check if Array Is Sorted and Rotated",
+    "titleSlug": "check-if-array-is-sorted-and-rotated"
+  },
+  {
+    "id": "2054558239",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783075410000,
+    "title": "Search Insert Position",
+    "titleSlug": "search-insert-position"
+  },
+  {
+    "id": "2054340056",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783062189000,
+    "title": "Network Recovery Pathways",
+    "titleSlug": "network-recovery-pathways"
+  },
+  {
+    "id": "2053940187",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783019619000,
+    "title": "Design Browser History",
+    "titleSlug": "design-browser-history"
+  },
+  {
+    "id": "2053907946",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783017371000,
+    "title": "Sort List",
+    "titleSlug": "sort-list"
+  },
+  {
+    "id": "2053888715",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783016365000,
+    "title": "Merge k Sorted Lists",
+    "titleSlug": "merge-k-sorted-lists"
+  },
+  {
+    "id": "2053848821",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783014465000,
+    "title": "Merge Two Sorted Lists",
+    "titleSlug": "merge-two-sorted-lists"
+  },
+  {
+    "id": "2053841704",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783014134000,
+    "title": "Rotate List",
+    "titleSlug": "rotate-list"
+  },
+  {
     "id": "2053556493",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7880,50 +7952,18 @@
     "titleSlug": "reverse-integer"
   },
   {
-    "id": "2054340056",
-    "title": "Network Recovery Pathways",
-    "titleSlug": "network-recovery-pathways",
-    "timestamp": 1783062189000,
+    "id": "2055453080",
+    "title": "Minimum Score of a Path Between Two Cities",
+    "titleSlug": "minimum-score-of-a-path-between-two-cities",
+    "timestamp": 1783152210000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   },
   {
-    "id": "2053940187",
-    "title": "Design Browser History",
-    "titleSlug": "design-browser-history",
-    "timestamp": 1783019619000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2053907946",
-    "title": "Sort List",
-    "titleSlug": "sort-list",
-    "timestamp": 1783017371000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2053888715",
-    "title": "Merge k Sorted Lists",
-    "titleSlug": "merge-k-sorted-lists",
-    "timestamp": 1783016365000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2053848821",
-    "title": "Merge Two Sorted Lists",
-    "titleSlug": "merge-two-sorted-lists",
-    "timestamp": 1783014465000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2053841704",
-    "title": "Rotate List",
-    "titleSlug": "rotate-list",
-    "timestamp": 1783014134000,
+    "id": "2055372113",
+    "title": "Minimum Score of a Path Between Two Cities",
+    "titleSlug": "minimum-score-of-a-path-between-two-cities",
+    "timestamp": 1783146925000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
