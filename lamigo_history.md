@@ -4,6 +4,11 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-04 | Leetcode | Minimum Score of a Path Between Two Cities | cpp |
+| 2026-07-04 | Leetcode | Minimum Score of a Path Between Two Cities | cpp |
+| 2026-07-03 | Leetcode | Find First and Last Position of Element in Sorted Array | cpp |
+| 2026-07-03 | Leetcode | Check if Array Is Sorted and Rotated | cpp |
+| 2026-07-03 | Leetcode | Search Insert Position | cpp |
 | 2026-07-03 | Leetcode | Network Recovery Pathways | cpp |
 | 2026-07-02 | Leetcode | Design Browser History | cpp |
 | 2026-07-02 | Leetcode | Sort List | cpp |
