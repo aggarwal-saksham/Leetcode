@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-550_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 550 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **550** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -371,7 +371,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/) | cpp | [View Solution](./LeetCode/Unknown/merge-adjacent-equal-elements) |
 | LeetCode | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | cpp | [View Solution](./LeetCode/Unknown/merge-close-characters) |
 | LeetCode | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | cpp | [View Solution](./LeetCode/Unknown/merge-intervals) |
-| LeetCode | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | cpp | [View Solution](./LeetCode/Unknown/merge-k-sorted-lists) |
+| LeetCode | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | cpp | [View Solution](./LeetCode/Hard/23-merge-k-sorted-lists) |
 | LeetCode | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | cpp | [View Solution](./LeetCode/Unknown/merge-nodes-in-between-zeros) |
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/merge-sorted-array) |
 | LeetCode | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | cpp | [View Solution](./LeetCode/Unknown/merge-triplets-to-form-target-triplet) |
@@ -411,6 +411,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | cpp | [View Solution](./LeetCode/Unknown/minimum-operations-to-reach-target-array) |
 | LeetCode | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | cpp | [View Solution](./LeetCode/Medium/64-minimum-path-sum) |
 | LeetCode | [Minimum Prefix Removal to Make Array Strictly Increasing](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | cpp | [View Solution](./LeetCode/Unknown/minimum-prefix-removal-to-make-array-strictly-increasing) |
+| LeetCode | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | cpp | [View Solution](./LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities) |
 | LeetCode | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | cpp | [View Solution](./LeetCode/Unknown/minimum-size-subarray-sum) |
 | LeetCode | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | cpp | [View Solution](./LeetCode/Unknown/minimum-string-length-after-removing-substrings) |
 | LeetCode | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | cpp | [View Solution](./LeetCode/Unknown/minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -516,7 +517,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/search-in-a-binary-search-tree) |
 | LeetCode | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array) |
 | LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array-ii) |
-| LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Unknown/search-insert-position) |
+| LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
 | LeetCode | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/serialize-and-deserialize-binary-tree) |
 | LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Unknown/set-matrix-zeroes) |
