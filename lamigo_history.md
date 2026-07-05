@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-05 | Leetcode | Find a Peak Element II | cpp |
+| 2026-07-04 | Leetcode | Find Minimum in Rotated Sorted Array | cpp |
 | 2026-07-04 | Leetcode | Minimum Score of a Path Between Two Cities | cpp |
 | 2026-07-04 | Leetcode | Minimum Score of a Path Between Two Cities | cpp |
 | 2026-07-03 | Leetcode | Find First and Last Position of Element in Sorted Array | cpp |
