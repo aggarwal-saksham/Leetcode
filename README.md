@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 167 | `[███░░░░░░░]` (30.6%) |
-| **Medium** | 336 | `[██████░░░░]` (61.5%) |
-| **Hard** | 43 | `[█░░░░░░░░░]` (7.9%) |
+| **Easy** | 167 | `[███░░░░░░░]` (30.3%) |
+| **Medium** | 340 | `[██████░░░░]` (61.7%) |
+| **Hard** | 44 | `[█░░░░░░░░░]` (8.0%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 308 |
+| Array | 311 |
 | String | 133 |
 | Hash Table | 127 |
 | Math | 87 |
-| Dynamic Programming | 75 |
+| Dynamic Programming | 76 |
 | Sorting | 69 |
 | Two Pointers | 61 |
 | Greedy | 59 |
-| Depth-First Search | 54 |
-| Stack | 45 |
+| Depth-First Search | 56 |
+| Breadth-First Search | 47 |
 
 
 ## Synced Solutions Index
@@ -114,7 +114,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | cpp | [View Solution](./LeetCode/Unknown/check-if-a-parentheses-string-can-be-valid) |
 | LeetCode | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | cpp | [View Solution](./LeetCode/Unknown/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | LeetCode | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | cpp | [View Solution](./LeetCode/Unknown/check-if-any-element-has-prime-frequency) |
-| LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Unknown/check-if-array-is-sorted-and-rotated) |
+| LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated) |
 | LeetCode | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | cpp | [View Solution](./LeetCode/Unknown/check-if-n-and-its-double-exist) |
 | LeetCode | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | cpp | [View Solution](./LeetCode/Unknown/check-if-one-string-swap-can-make-strings-equal) |
 | LeetCode | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | cpp | [View Solution](./LeetCode/Hard/1463-cherry-pickup-ii) |
@@ -202,7 +202,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | cpp | [View Solution](./LeetCode/Unknown/final-array-state-after-k-multiplication-operations-i) |
 | LeetCode | [Final Element After Subarray Deletions](https://leetcode.com/problems/final-element-after-subarray-deletions/) | cpp | [View Solution](./LeetCode/Unknown/final-element-after-subarray-deletions) |
 | LeetCode | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | cpp | [View Solution](./LeetCode/Unknown/final-prices-with-a-special-discount-in-a-shop) |
-| LeetCode | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | cpp | [View Solution](./LeetCode/Unknown/find-a-peak-element-ii) |
+| LeetCode | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | cpp | [View Solution](./LeetCode/Medium/1901-find-a-peak-element-ii) |
 | LeetCode | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | cpp | [View Solution](./LeetCode/Medium/3286-find-a-safe-walk-through-a-grid) |
 | LeetCode | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/find-all-k-distant-indices-in-an-array) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | cpp | [View Solution](./LeetCode/Unknown/find-closest-person) |
@@ -236,7 +236,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | cpp | [View Solution](./LeetCode/Medium/2812-find-the-safest-path-in-a-grid) |
 | LeetCode | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | cpp | [View Solution](./LeetCode/Unknown/find-the-score-difference-in-a-game) |
 | LeetCode | [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | cpp | [View Solution](./LeetCode/Unknown/find-the-sequence-of-strings-appeared-on-the-screen) |
-| LeetCode | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | cpp | [View Solution](./LeetCode/Unknown/find-the-smallest-divisor-given-a-threshold) |
+| LeetCode | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | cpp | [View Solution](./LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold) |
 | LeetCode | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | cpp | [View Solution](./LeetCode/Unknown/find-the-town-judge) |
 | LeetCode | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | cpp | [View Solution](./LeetCode/Unknown/find-the-winner-of-the-circular-game) |
 | LeetCode | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | cpp | [View Solution](./LeetCode/Unknown/find-the-xor-of-numbers-which-appear-twice) |
@@ -289,7 +289,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Jump Game](https://leetcode.com/problems/jump-game/) | cpp | [View Solution](./LeetCode/Unknown/jump-game) |
 | LeetCode | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | cpp | [View Solution](./LeetCode/Unknown/jump-game-ii) |
 | LeetCode | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | cpp | [View Solution](./LeetCode/Unknown/k-closest-points-to-origin) |
-| LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Unknown/koko-eating-bananas) |
+| LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Medium/875-koko-eating-bananas) |
 | LeetCode | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-a-stream) |
 | LeetCode | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-an-array) |
 | LeetCode | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-sum-in-a-binary-tree) |
