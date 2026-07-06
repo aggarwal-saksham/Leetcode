@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-06 | Leetcode | Kth Missing Positive Number | cpp |
+| 2026-07-06 | Leetcode | Kth Missing Positive Number | cpp |
+| 2026-07-06 | Leetcode | Split Array Largest Sum | cpp |
 | 2026-07-05 | Leetcode | Find the Smallest Divisor Given a Threshold | cpp |
 | 2026-07-05 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
 | 2026-07-05 | Leetcode | Koko Eating Bananas | cpp |
@@ -1004,4 +1007,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-06 | Leetcode | Remove Duplicates from Sorted Array | cpp |
 | 2024-05-27 | Leetcode | Palindrome Number | cpp |
 | 2024-05-27 | Leetcode | Palindrome Number | cpp |
-| 2024-05-27 | Leetcode | Reverse Integer | cpp |
