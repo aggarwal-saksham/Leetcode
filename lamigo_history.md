@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-05 | Leetcode | Find the Smallest Divisor Given a Threshold | cpp |
+| 2026-07-05 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
+| 2026-07-05 | Leetcode | Koko Eating Bananas | cpp |
 | 2026-07-05 | Leetcode | Find a Peak Element II | cpp |
 | 2026-07-04 | Leetcode | Find Minimum in Rotated Sorted Array | cpp |
 | 2026-07-04 | Leetcode | Minimum Score of a Path Between Two Cities | cpp |
