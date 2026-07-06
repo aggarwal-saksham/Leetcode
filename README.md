@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-550_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 550 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **550** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -398,7 +398,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements) |
 | LeetCode | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements-ii) |
 | LeetCode | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements-iii) |
-| LeetCode | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-days-to-make-m-bouquets) |
+| LeetCode | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | cpp | [View Solution](./LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets) |
 | LeetCode | [Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-operations-to-have-distinct-elements) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | LeetCode | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-removals-to-make-mountain-array) |
@@ -495,7 +495,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | cpp | [View Solution](./LeetCode/Unknown/remove-sub-folders-from-the-filesystem) |
 | LeetCode | [Reorder List](https://leetcode.com/problems/reorder-list/) | cpp | [View Solution](./LeetCode/Unknown/reorder-list) |
 | LeetCode | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | cpp | [View Solution](./LeetCode/Unknown/restore-finishing-order) |
-| LeetCode | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | cpp | [View Solution](./LeetCode/Unknown/reverse-integer) |
 | LeetCode | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/reverse-letters-then-special-characters-in-a-string) |
 | LeetCode | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | cpp | [View Solution](./LeetCode/Easy/206-reverse-linked-list) |
 | LeetCode | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | cpp | [View Solution](./LeetCode/Unknown/reverse-linked-list-ii) |
@@ -544,7 +543,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/sort-vowels-in-a-string) |
 | LeetCode | [Special Array I](https://leetcode.com/problems/special-array-i/) | cpp | [View Solution](./LeetCode/Unknown/special-array-i) |
 | LeetCode | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | cpp | [View Solution](./LeetCode/Unknown/spiral-matrix) |
-| LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Unknown/split-array-largest-sum) |
+| LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | cpp | [View Solution](./LeetCode/Unknown/strictly-palindromic-number) |
 | LeetCode | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/string-matching-in-an-array) |
 | LeetCode | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | cpp | [View Solution](./LeetCode/Unknown/string-to-integer-atoi) |
