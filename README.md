@@ -293,7 +293,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-a-stream) |
 | LeetCode | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-an-array) |
 | LeetCode | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-sum-in-a-binary-tree) |
-| LeetCode | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | cpp | [View Solution](./LeetCode/Unknown/kth-missing-positive-number) |
+| LeetCode | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | cpp | [View Solution](./LeetCode/Easy/1539-kth-missing-positive-number) |
 | LeetCode | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | cpp | [View Solution](./LeetCode/Unknown/kth-smallest-element-in-a-bst) |
 | LeetCode | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | cpp | [View Solution](./LeetCode/Unknown/largest-divisible-subset) |
 | LeetCode | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | cpp | [View Solution](./LeetCode/Unknown/largest-even-number) |
@@ -368,6 +368,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/maximum-width-of-binary-tree) |
 | LeetCode | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-xor-of-two-numbers-in-an-array) |
 | LeetCode | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-xor-with-an-element-from-array) |
+| LeetCode | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | cpp | [View Solution](./LeetCode/Hard/4-median-of-two-sorted-arrays) |
 | LeetCode | [Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/) | cpp | [View Solution](./LeetCode/Unknown/merge-adjacent-equal-elements) |
 | LeetCode | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | cpp | [View Solution](./LeetCode/Unknown/merge-close-characters) |
 | LeetCode | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | cpp | [View Solution](./LeetCode/Unknown/merge-intervals) |
@@ -455,7 +456,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | cpp | [View Solution](./LeetCode/Unknown/online-stock-span) |
 | LeetCode | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | cpp | [View Solution](./LeetCode/Medium/417-pacific-atlantic-water-flow) |
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-linked-list) |
-| LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-number) |
 | LeetCode | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-partitioning) |
 | LeetCode | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-partitioning-ii) |
 | LeetCode | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | cpp | [View Solution](./LeetCode/Unknown/palindromic-substrings) |
@@ -485,7 +485,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | cpp | [View Solution](./LeetCode/Unknown/remove-all-occurrences-of-a-substring) |
 | LeetCode | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | cpp | [View Solution](./LeetCode/Unknown/remove-digit-from-number-to-maximize-result) |
 | LeetCode | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicate-letters) |
-| LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-array) |
+| LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
 | LeetCode | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-list) |
 | LeetCode | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-list-ii) |
 | LeetCode | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | cpp | [View Solution](./LeetCode/Unknown/remove-k-digits) |
