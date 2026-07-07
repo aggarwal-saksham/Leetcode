@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-07 | Leetcode | Majority Element | cpp |
+| 2026-07-07 | Leetcode | Sort Colors | cpp |
 | 2026-07-06 | Leetcode | Remove Duplicates from Sorted Array | cpp |
 | 2026-07-06 | Leetcode | Median of Two Sorted Arrays | cpp |
 | 2026-07-06 | Leetcode | Kth Missing Positive Number | cpp |
@@ -1004,5 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-08 | Leetcode | Single Number | cpp |
 | 2024-07-08 | Leetcode | Max Consecutive Ones | cpp |
 | 2024-07-07 | Leetcode | Check if Array Is Sorted and Rotated | cpp |
-| 2024-07-07 | Leetcode | Move Zeroes | cpp |
-| 2024-07-07 | Leetcode | Rotate Array | cpp |
