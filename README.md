@@ -478,7 +478,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | cpp | [View Solution](./LeetCode/Unknown/product-of-the-last-k-numbers) |
 | LeetCode | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | cpp | [View Solution](./LeetCode/Unknown/query-kth-smallest-trimmed-number) |
 | LeetCode | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | cpp | [View Solution](./LeetCode/Unknown/rank-transform-of-an-array) |
-| LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Unknown/rearrange-array-elements-by-sign) |
+| LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
 | LeetCode | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | cpp | [View Solution](./LeetCode/Unknown/relative-ranks) |
 | LeetCode | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | cpp | [View Solution](./LeetCode/Unknown/remove-all-occurrences-of-a-substring) |
