@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-548_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 548 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **548** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -324,7 +324,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/lowest-common-ancestor-of-a-binary-search-tree) |
 | LeetCode | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/lowest-common-ancestor-of-a-binary-tree) |
 | LeetCode | [LRU Cache](https://leetcode.com/problems/lru-cache/) | cpp | [View Solution](./LeetCode/Unknown/lru-cache) |
-| LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | cpp | [View Solution](./LeetCode/Unknown/majority-element) |
+| LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | cpp | [View Solution](./LeetCode/Easy/169-majority-element) |
 | LeetCode | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | cpp | [View Solution](./LeetCode/Unknown/majority-element-ii) |
 | LeetCode | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | cpp | [View Solution](./LeetCode/Hard/827-making-a-large-island) |
 | LeetCode | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | cpp | [View Solution](./LeetCode/Unknown/map-of-highest-peak) |
@@ -425,7 +425,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Missing Number](https://leetcode.com/problems/missing-number/) | cpp | [View Solution](./LeetCode/Unknown/missing-number) |
 | LeetCode | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | cpp | [View Solution](./LeetCode/Unknown/monotone-increasing-digits) |
 | LeetCode | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | cpp | [View Solution](./LeetCode/Unknown/most-stones-removed-with-same-row-or-column) |
-| LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | cpp | [View Solution](./LeetCode/Unknown/move-zeroes) |
 | LeetCode | [N-Queens](https://leetcode.com/problems/n-queens/) | cpp | [View Solution](./LeetCode/Unknown/n-queens) |
 | LeetCode | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | cpp | [View Solution](./LeetCode/Unknown/n-queens-ii) |
 | LeetCode | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | cpp | [View Solution](./LeetCode/Unknown/neighboring-bitwise-xor) |
@@ -537,7 +536,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | cpp | [View Solution](./LeetCode/Unknown/sort-an-array) |
 | LeetCode | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | cpp | [View Solution](./LeetCode/Unknown/sort-array-by-increasing-frequency) |
 | LeetCode | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | cpp | [View Solution](./LeetCode/Unknown/sort-characters-by-frequency) |
-| LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | cpp | [View Solution](./LeetCode/Unknown/sort-colors) |
+| LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | cpp | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Unknown/sort-list) |
 | LeetCode | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | cpp | [View Solution](./LeetCode/Unknown/sort-matrix-by-diagonals) |
 | LeetCode | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/sort-vowels-in-a-string) |
