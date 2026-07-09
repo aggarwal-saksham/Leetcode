@@ -422,7 +422,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | [View Solution](./LeetCode/Unknown/minimum-window-substring) |
 | LeetCode | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | cpp | [View Solution](./LeetCode/Unknown/minimum-xor-path-in-a-grid) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | cpp | [View Solution](./LeetCode/Unknown/mirror-distance-of-an-integer) |
-| LeetCode | [Missing Number](https://leetcode.com/problems/missing-number/) | cpp | [View Solution](./LeetCode/Unknown/missing-number) |
 | LeetCode | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | cpp | [View Solution](./LeetCode/Unknown/monotone-increasing-digits) |
 | LeetCode | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | cpp | [View Solution](./LeetCode/Unknown/most-stones-removed-with-same-row-or-column) |
 | LeetCode | [N-Queens](https://leetcode.com/problems/n-queens/) | cpp | [View Solution](./LeetCode/Unknown/n-queens) |
@@ -466,6 +465,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Partition Labels](https://leetcode.com/problems/partition-labels/) | cpp | [View Solution](./LeetCode/Unknown/partition-labels) |
 | LeetCode | [Partition String ](https://leetcode.com/problems/partition-string/) | cpp | [View Solution](./LeetCode/Unknown/partition-string) |
 | LeetCode | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | cpp | [View Solution](./LeetCode/Unknown/pascals-triangle) |
+| LeetCode | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | cpp | [View Solution](./LeetCode/Medium/3532-path-existence-queries-in-a-graph-i) |
 | LeetCode | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | cpp | [View Solution](./LeetCode/Unknown/path-with-minimum-effort) |
 | LeetCode | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | cpp | [View Solution](./LeetCode/Unknown/peak-index-in-a-mountain-array) |
 | LeetCode | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | cpp | [View Solution](./LeetCode/Unknown/permutation-in-string) |
@@ -572,7 +572,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | cpp | [View Solution](./LeetCode/Unknown/take-gifts-from-the-richest-pile) |
 | LeetCode | [Target Sum](https://leetcode.com/problems/target-sum/) | cpp | [View Solution](./LeetCode/Unknown/target-sum) |
 | LeetCode | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | cpp | [View Solution](./LeetCode/Unknown/task-scheduler) |
-| LeetCode | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | cpp | [View Solution](./LeetCode/Unknown/time-based-key-value-store) |
+| LeetCode | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | cpp | [View Solution](./LeetCode/Medium/981-time-based-key-value-store) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Unknown/top-k-frequent-elements) |
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | cpp | [View Solution](./LeetCode/Unknown/traffic-signal-color) |
 | LeetCode | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | cpp | [View Solution](./LeetCode/Unknown/trapping-rain-water) |
