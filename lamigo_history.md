@@ -4,6 +4,11 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-09 | Leetcode | Path Existence Queries in a Graph I | cpp |
+| 2026-07-08 | Leetcode | Time Based Key-Value Store | cpp |
+| 2026-07-08 | Leetcode | First Bad Version | cpp |
+| 2026-07-08 | Leetcode | First Bad Version | cpp |
+| 2026-07-07 | Leetcode | Set Matrix Zeroes | cpp |
 | 2026-07-07 | Leetcode | Rearrange Array Elements by Sign | cpp |
 | 2026-07-07 | Leetcode | Majority Element | cpp |
 | 2026-07-07 | Leetcode | Sort Colors | cpp |
@@ -1000,8 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-10 | Leetcode | Best Time to Buy and Sell Stock | cpp |
 | 2024-07-10 | Leetcode | Maximum Subarray | cpp |
 | 2024-07-10 | Leetcode | Maximum Subarray | cpp |
-| 2024-07-09 | Leetcode | Majority Element | cpp |
-| 2024-07-09 | Leetcode | Sort Colors | cpp |
-| 2024-07-09 | Leetcode | Two Sum | cpp |
-| 2024-07-08 | Leetcode | Missing Number | cpp |
-| 2024-07-08 | Leetcode | Single Number | cpp |
