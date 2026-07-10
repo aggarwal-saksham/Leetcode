@@ -64,7 +64,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Problem | Language | Solution Folder |
 | :--- | :--- | :--- | :--- |
 | LeetCode | [01 Matrix](https://leetcode.com/problems/01-matrix/) | cpp | [View Solution](./LeetCode/Unknown/01-matrix) |
-| LeetCode | [3Sum](https://leetcode.com/problems/3sum/) | cpp | [View Solution](./LeetCode/Unknown/3sum) |
+| LeetCode | [3Sum](https://leetcode.com/problems/3sum/) | cpp | [View Solution](./LeetCode/Medium/15-3sum) |
 | LeetCode | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | cpp | [View Solution](./LeetCode/Unknown/3sum-closest) |
 | LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Unknown/4sum) |
 | LeetCode | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | cpp | [View Solution](./LeetCode/Unknown/absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -245,7 +245,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | cpp | [View Solution](./LeetCode/Unknown/find-words-containing-character) |
 | LeetCode | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | cpp | [View Solution](./LeetCode/Unknown/finding-pairs-with-a-certain-sum) |
 | LeetCode | [Finish Time of Tasks I](https://leetcode.com/problems/finish-time-of-tasks-i/) | cpp | [View Solution](./LeetCode/Medium/3965-finish-time-of-tasks-i) |
-| LeetCode | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | cpp | [View Solution](./LeetCode/Unknown/first-bad-version) |
+| LeetCode | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | cpp | [View Solution](./LeetCode/Easy/278-first-bad-version) |
 | LeetCode | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | cpp | [View Solution](./LeetCode/Unknown/first-element-with-unique-frequency) |
 | LeetCode | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | cpp | [View Solution](./LeetCode/Unknown/first-matching-character-from-both-ends) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/first-unique-character-in-a-string) |
@@ -518,7 +518,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
 | LeetCode | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/serialize-and-deserialize-binary-tree) |
-| LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Unknown/set-matrix-zeroes) |
+| LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Medium/73-set-matrix-zeroes) |
 | LeetCode | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | cpp | [View Solution](./LeetCode/Unknown/set-mismatch) |
 | LeetCode | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | cpp | [View Solution](./LeetCode/Unknown/shifting-letters) |
 | LeetCode | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/) | cpp | [View Solution](./LeetCode/Hard/1092-shortest-common-supersequence) |
