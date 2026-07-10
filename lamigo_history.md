@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-10 | Leetcode | 4Sum | cpp |
+| 2026-07-10 | Leetcode | 4Sum | cpp |
+| 2026-07-10 | Leetcode | 3Sum | cpp |
+| 2026-07-10 | Leetcode | 3Sum | cpp |
 | 2026-07-09 | Leetcode | Path Existence Queries in a Graph I | cpp |
 | 2026-07-08 | Leetcode | Time Based Key-Value Store | cpp |
 | 2026-07-08 | Leetcode | First Bad Version | cpp |
@@ -1003,5 +1007,4 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-10 | Leetcode | Next Permutation | cpp |
 | 2024-07-10 | Leetcode | Rearrange Array Elements by Sign | cpp |
 | 2024-07-10 | Leetcode | Best Time to Buy and Sell Stock | cpp |
-| 2024-07-10 | Leetcode | Maximum Subarray | cpp |
 | 2024-07-10 | Leetcode | Maximum Subarray | cpp |
