@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-11 | Leetcode | Count the Number of Complete Components | cpp |
 | 2026-07-10 | Leetcode | 4Sum | cpp |
 | 2026-07-10 | Leetcode | 4Sum | cpp |
 | 2026-07-10 | Leetcode | 3Sum | cpp |
@@ -1004,7 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-11 | Leetcode | Set Matrix Zeroes | cpp |
 | 2024-07-10 | Leetcode | Longest Consecutive Sequence | cpp |
 | 2024-07-10 | Leetcode | Next Permutation | cpp |
-| 2024-07-10 | Leetcode | Next Permutation | cpp |
-| 2024-07-10 | Leetcode | Rearrange Array Elements by Sign | cpp |
-| 2024-07-10 | Leetcode | Best Time to Buy and Sell Stock | cpp |
-| 2024-07-10 | Leetcode | Maximum Subarray | cpp |
