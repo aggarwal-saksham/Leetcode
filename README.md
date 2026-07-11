@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-548_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 548 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **548** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -66,7 +66,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [01 Matrix](https://leetcode.com/problems/01-matrix/) | cpp | [View Solution](./LeetCode/Unknown/01-matrix) |
 | LeetCode | [3Sum](https://leetcode.com/problems/3sum/) | cpp | [View Solution](./LeetCode/Medium/15-3sum) |
 | LeetCode | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | cpp | [View Solution](./LeetCode/Unknown/3sum-closest) |
-| LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Unknown/4sum) |
+| LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Medium/18-4sum) |
 | LeetCode | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | cpp | [View Solution](./LeetCode/Unknown/absolute-difference-between-maximum-and-minimum-k-elements) |
 | LeetCode | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | cpp | [View Solution](./LeetCode/Unknown/accounts-merge) |
 | LeetCode | [Add Strings](https://leetcode.com/problems/add-strings/) | cpp | [View Solution](./LeetCode/Unknown/add-strings) |
@@ -162,6 +162,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | cpp | [View Solution](./LeetCode/Unknown/count-square-submatrices-with-all-ones) |
 | LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | cpp | [View Solution](./LeetCode/Medium/3737-count-subarrays-with-majority-element-i) |
 | LeetCode | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | cpp | [View Solution](./LeetCode/Unknown/count-subarrays-with-score-less-than-k) |
+| LeetCode | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | cpp | [View Solution](./LeetCode/Medium/2685-count-the-number-of-complete-components) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | cpp | [View Solution](./LeetCode/Unknown/count-the-number-of-consistent-strings) |
 | LeetCode | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | cpp | [View Solution](./LeetCode/Unknown/count-total-number-of-colored-cells) |
 | LeetCode | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | cpp | [View Solution](./LeetCode/Unknown/count-valid-word-occurrences) |
