@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-13 | Leetcode | Sequential Digits | cpp |
 | 2026-07-12 | Leetcode | Minimum Number of Arrows to Burst Balloons | cpp |
 | 2026-07-12 | Leetcode | Permutations | cpp |
 | 2026-07-12 | Leetcode | Edit Distance | cpp |
@@ -1004,7 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-13 | Leetcode | Search Insert Position | cpp |
 | 2024-07-13 | Leetcode | Binary Search | cpp |
 | 2024-07-13 | Leetcode | Binary Search | cpp |
-| 2024-07-12 | Leetcode | Two Sum | cpp |
-| 2024-07-12 | Leetcode | Subarray Sum Equals K | cpp |
-| 2024-07-12 | Leetcode | Spiral Matrix | cpp |
-| 2024-07-12 | Leetcode | Spiral Matrix | cpp |
