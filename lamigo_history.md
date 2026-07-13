@@ -4,6 +4,13 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-12 | Leetcode | Minimum Number of Arrows to Burst Balloons | cpp |
+| 2026-07-12 | Leetcode | Permutations | cpp |
+| 2026-07-12 | Leetcode | Edit Distance | cpp |
+| 2026-07-12 | Leetcode | Rank Transform of an Array | cpp |
+| 2026-07-12 | Leetcode | Maximum Consistent Columns in a Grid | cpp |
+| 2026-07-12 | Leetcode | Minimum Total Cost to Process All Elements | cpp |
+| 2026-07-12 | Leetcode | Number of Elapsed Seconds Between Two Times | cpp |
 | 2026-07-11 | Leetcode | Count the Number of Complete Components | cpp |
 | 2026-07-10 | Leetcode | 4Sum | cpp |
 | 2026-07-10 | Leetcode | 4Sum | cpp |
@@ -1001,7 +1008,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-12 | Leetcode | Subarray Sum Equals K | cpp |
 | 2024-07-12 | Leetcode | Spiral Matrix | cpp |
 | 2024-07-12 | Leetcode | Spiral Matrix | cpp |
-| 2024-07-12 | Leetcode | Rotate Image | cpp |
-| 2024-07-11 | Leetcode | Set Matrix Zeroes | cpp |
-| 2024-07-10 | Leetcode | Longest Consecutive Sequence | cpp |
-| 2024-07-10 | Leetcode | Next Permutation | cpp |
