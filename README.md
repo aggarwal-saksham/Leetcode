@@ -442,7 +442,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Number of Alternating XOR Partitions](https://leetcode.com/problems/number-of-alternating-xor-partitions/) | cpp | [View Solution](./LeetCode/Unknown/number-of-alternating-xor-partitions) |
 | LeetCode | [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/number-of-centered-subarrays) |
 | LeetCode | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-closed-islands) |
-| LeetCode | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | cpp | [View Solution](./LeetCode/Unknown/number-of-elapsed-seconds-between-two-times) |
+| LeetCode | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | cpp | [View Solution](./LeetCode/Easy/3986-number-of-elapsed-seconds-between-two-times) |
 | LeetCode | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | cpp | [View Solution](./LeetCode/Unknown/number-of-enclaves) |
 | LeetCode | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-islands) |
 | LeetCode | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/number-of-longest-increasing-subsequence) |
@@ -522,6 +522,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array-ii) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
+| LeetCode | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | cpp | [View Solution](./LeetCode/Unknown/sequential-digits) |
 | LeetCode | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/serialize-and-deserialize-binary-tree) |
 | LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Medium/73-set-matrix-zeroes) |
 | LeetCode | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | cpp | [View Solution](./LeetCode/Unknown/set-mismatch) |
@@ -546,7 +547,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | cpp | [View Solution](./LeetCode/Unknown/sort-matrix-by-diagonals) |
 | LeetCode | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/sort-vowels-in-a-string) |
 | LeetCode | [Special Array I](https://leetcode.com/problems/special-array-i/) | cpp | [View Solution](./LeetCode/Unknown/special-array-i) |
-| LeetCode | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | cpp | [View Solution](./LeetCode/Unknown/spiral-matrix) |
 | LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
 | LeetCode | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | cpp | [View Solution](./LeetCode/Unknown/strictly-palindromic-number) |
 | LeetCode | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/string-matching-in-an-array) |
