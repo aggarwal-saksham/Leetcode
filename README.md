@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-549_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 549 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **549** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -341,6 +341,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | cpp | [View Solution](./LeetCode/Unknown/maximum-ascending-subarray-sum) |
 | LeetCode | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | cpp | [View Solution](./LeetCode/Unknown/maximum-average-pass-ratio) |
 | LeetCode | [Maximum Bitwise XOR After Rearrangement](https://leetcode.com/problems/maximum-bitwise-xor-after-rearrangement/) | cpp | [View Solution](./LeetCode/Unknown/maximum-bitwise-xor-after-rearrangement) |
+| LeetCode | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | cpp | [View Solution](./LeetCode/Unknown/maximum-consistent-columns-in-a-grid) |
 | LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/maximum-depth-of-binary-tree) |
 | LeetCode | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | LeetCode | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-difference-between-even-and-odd-frequency-i) |
@@ -400,6 +401,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements) |
 | LeetCode | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements-ii) |
 | LeetCode | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | cpp | [View Solution](./LeetCode/Unknown/minimum-moves-to-equal-array-elements-iii) |
+| LeetCode | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | cpp | [View Solution](./LeetCode/Medium/452-minimum-number-of-arrows-to-burst-balloons) |
 | LeetCode | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | cpp | [View Solution](./LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets) |
 | LeetCode | [Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-operations-to-have-distinct-elements) |
 | LeetCode | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | cpp | [View Solution](./LeetCode/Unknown/minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -420,6 +422,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | cpp | [View Solution](./LeetCode/Unknown/minimum-swaps-to-move-zeros-to-end) |
 | LeetCode | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | cpp | [View Solution](./LeetCode/Unknown/minimum-time-difference) |
 | LeetCode | [Minimum Time to Reach Destination in Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | cpp | [View Solution](./LeetCode/Unknown/minimum-time-to-reach-destination-in-directed-graph) |
+| LeetCode | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | cpp | [View Solution](./LeetCode/Medium/3987-minimum-total-cost-to-process-all-elements) |
 | LeetCode | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | [View Solution](./LeetCode/Unknown/minimum-window-substring) |
 | LeetCode | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | cpp | [View Solution](./LeetCode/Unknown/minimum-xor-path-in-a-grid) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | cpp | [View Solution](./LeetCode/Unknown/mirror-distance-of-an-integer) |
@@ -439,6 +442,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Number of Alternating XOR Partitions](https://leetcode.com/problems/number-of-alternating-xor-partitions/) | cpp | [View Solution](./LeetCode/Unknown/number-of-alternating-xor-partitions) |
 | LeetCode | [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/number-of-centered-subarrays) |
 | LeetCode | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-closed-islands) |
+| LeetCode | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | cpp | [View Solution](./LeetCode/Unknown/number-of-elapsed-seconds-between-two-times) |
 | LeetCode | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | cpp | [View Solution](./LeetCode/Unknown/number-of-enclaves) |
 | LeetCode | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-islands) |
 | LeetCode | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/number-of-longest-increasing-subsequence) |
@@ -478,7 +482,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | cpp | [View Solution](./LeetCode/Unknown/product-of-array-except-self) |
 | LeetCode | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | cpp | [View Solution](./LeetCode/Unknown/product-of-the-last-k-numbers) |
 | LeetCode | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | cpp | [View Solution](./LeetCode/Unknown/query-kth-smallest-trimmed-number) |
-| LeetCode | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | cpp | [View Solution](./LeetCode/Unknown/rank-transform-of-an-array) |
+| LeetCode | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | cpp | [View Solution](./LeetCode/Easy/1331-rank-transform-of-an-array) |
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
 | LeetCode | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | cpp | [View Solution](./LeetCode/Unknown/relative-ranks) |
