@@ -522,7 +522,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array-ii) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
-| LeetCode | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | cpp | [View Solution](./LeetCode/Unknown/sequential-digits) |
+| LeetCode | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | cpp | [View Solution](./LeetCode/Medium/1291-sequential-digits) |
 | LeetCode | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/serialize-and-deserialize-binary-tree) |
 | LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Medium/73-set-matrix-zeroes) |
 | LeetCode | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | cpp | [View Solution](./LeetCode/Unknown/set-mismatch) |
