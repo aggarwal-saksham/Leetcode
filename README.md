@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-552_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 552 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **552** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -87,7 +87,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-v) |
 | LeetCode | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | cpp | [View Solution](./LeetCode/Medium/309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | LeetCode | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | cpp | [View Solution](./LeetCode/Medium/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
-| LeetCode | [Binary Search](https://leetcode.com/problems/binary-search/) | cpp | [View Solution](./LeetCode/Unknown/binary-search) |
 | LeetCode | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-iterator) |
 | LeetCode | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-to-greater-sum-tree) |
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Unknown/binary-subarrays-with-sum) |
@@ -259,7 +258,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | cpp | [View Solution](./LeetCode/Unknown/fruit-into-baskets) |
 | LeetCode | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | cpp | [View Solution](./LeetCode/Unknown/fruits-into-baskets-ii) |
 | LeetCode | [Gas Station](https://leetcode.com/problems/gas-station/) | cpp | [View Solution](./LeetCode/Unknown/gas-station) |
-| LeetCode | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | cpp | [View Solution](./LeetCode/Unknown/gcd-of-odd-and-even-sums) |
+| LeetCode | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | cpp | [View Solution](./LeetCode/Easy/3658-gcd-of-odd-and-even-sums) |
 | LeetCode | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | cpp | [View Solution](./LeetCode/Unknown/generate-binary-strings-without-adjacent-zeros) |
 | LeetCode | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | cpp | [View Solution](./LeetCode/Unknown/generate-parentheses) |
 | LeetCode | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | cpp | [View Solution](./LeetCode/Unknown/generate-tag-for-video-caption) |
