@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-15 | Leetcode | GCD of Odd and Even Sums | cpp |
 | 2026-07-14 | Leetcode | Same Tree | cpp |
 | 2026-07-13 | Leetcode | Sequential Digits | cpp |
 | 2026-07-12 | Leetcode | Minimum Number of Arrows to Burst Balloons | cpp |
@@ -1004,4 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-15 | Leetcode | Rotate Array | cpp |
 | 2024-07-15 | Leetcode | Find First and Last Position of Element in Sorted Array | cpp |
 | 2024-07-13 | Leetcode | Search Insert Position | cpp |
-| 2024-07-13 | Leetcode | Binary Search | cpp |
