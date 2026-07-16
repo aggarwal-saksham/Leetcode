@@ -561,7 +561,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-beauty-of-all-substrings) |
 | LeetCode | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-compatible-numbers-in-range-i) |
 | LeetCode | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-elements-with-frequency-divisible-by-k) |
-| LeetCode | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-gcd-of-formed-pairs) |
+| LeetCode | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | cpp | [View Solution](./LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs) |
 | LeetCode | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-good-numbers) |
 | LeetCode | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-mutated-array-closest-to-target) |
 | LeetCode | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-sortable-integers) |
