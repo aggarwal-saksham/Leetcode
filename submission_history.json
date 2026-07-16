@@ -1,5 +1,13 @@
 [
   {
+    "id": "2068395128",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784106806000,
+    "title": "GCD of Odd and Even Sums",
+    "titleSlug": "gcd-of-odd-and-even-sums"
+  },
+  {
     "id": "2067331952",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7992,18 +8000,18 @@
     "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
   },
   {
-    "id": "1319966934",
+    "id": "2069616161",
+    "title": "Number of Substrings Containing All Three Characters",
+    "titleSlug": "number-of-substrings-containing-all-three-characters",
+    "timestamp": 1784191648000,
     "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1720894908000,
-    "title": "Search Insert Position",
-    "titleSlug": "search-insert-position"
+    "statusDisplay": "Accepted"
   },
   {
-    "id": "2068395128",
-    "title": "GCD of Odd and Even Sums",
-    "titleSlug": "gcd-of-odd-and-even-sums",
-    "timestamp": 1784106806000,
+    "id": "2069539023",
+    "title": "Sum of GCD of Formed Pairs",
+    "titleSlug": "sum-of-gcd-of-formed-pairs",
+    "timestamp": 1784186824000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
