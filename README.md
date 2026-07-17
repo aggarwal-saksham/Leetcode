@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-552_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-551_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 552 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 551 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **552** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **551** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -507,7 +507,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Reverse Words With Same Vowel Count](https://leetcode.com/problems/reverse-words-with-same-vowel-count/) | cpp | [View Solution](./LeetCode/Unknown/reverse-words-with-same-vowel-count) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | cpp | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
 | LeetCode | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | cpp | [View Solution](./LeetCode/Unknown/root-equals-sum-of-children) |
-| LeetCode | [Rotate Array](https://leetcode.com/problems/rotate-array/) | cpp | [View Solution](./LeetCode/Unknown/rotate-array) |
 | LeetCode | [Rotate Image](https://leetcode.com/problems/rotate-image/) | cpp | [View Solution](./LeetCode/Unknown/rotate-image) |
 | LeetCode | [Rotate List](https://leetcode.com/problems/rotate-list/) | cpp | [View Solution](./LeetCode/Medium/61-rotate-list) |
 | LeetCode | [Rotate Non Negative Elements](https://leetcode.com/problems/rotate-non-negative-elements/) | cpp | [View Solution](./LeetCode/Unknown/rotate-non-negative-elements) |
@@ -553,7 +552,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | cpp | [View Solution](./LeetCode/Unknown/string-without-aaa-or-bbb) |
 | LeetCode | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | cpp | [View Solution](./LeetCode/Unknown/student-attendance-record-i) |
 | LeetCode | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | cpp | [View Solution](./LeetCode/Unknown/subarray-sum-equals-k) |
-| LeetCode | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | cpp | [View Solution](./LeetCode/Unknown/subarrays-with-k-different-integers) |
+| LeetCode | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | cpp | [View Solution](./LeetCode/Hard/992-subarrays-with-k-different-integers) |
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | cpp | [View Solution](./LeetCode/Unknown/subsets) |
 | LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | cpp | [View Solution](./LeetCode/Unknown/subsets-ii) |
 | LeetCode | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | cpp | [View Solution](./LeetCode/Unknown/successful-pairs-of-spells-and-potions) |
