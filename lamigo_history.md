@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-16 | Leetcode | Subarrays with K Different Integers | cpp |
 | 2026-07-16 | Leetcode | Number of Substrings Containing All Three Characters | cpp |
 | 2026-07-16 | Leetcode | Sum of GCD of Formed Pairs | cpp |
 | 2026-07-15 | Leetcode | GCD of Odd and Even Sums | cpp |
@@ -1004,5 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-15 | Leetcode | Find Minimum in Rotated Sorted Array | cpp |
 | 2024-07-15 | Leetcode | Search in Rotated Sorted Array II | cpp |
 | 2024-07-15 | Leetcode | Search in Rotated Sorted Array | cpp |
-| 2024-07-15 | Leetcode | Rotate Array | cpp |
-| 2024-07-15 | Leetcode | Find First and Last Position of Element in Sorted Array | cpp |
