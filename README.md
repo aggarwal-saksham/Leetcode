@@ -364,7 +364,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | cpp | [View Solution](./LeetCode/Unknown/maximum-sum-of-three-numbers-divisible-by-three) |
 | LeetCode | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-total-subarray-value-i) |
 | LeetCode | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | cpp | [View Solution](./LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements) |
-| LeetCode | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-alternating-sequence) |
+| LeetCode | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | cpp | [View Solution](./LeetCode/Medium/3993-maximum-value-of-an-alternating-sequence) |
 | LeetCode | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-i) |
 | LeetCode | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-ii) |
 | LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/maximum-width-of-binary-tree) |
@@ -528,7 +528,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/) | cpp | [View Solution](./LeetCode/Hard/1092-shortest-common-supersequence) |
 | LeetCode | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | cpp | [View Solution](./LeetCode/Unknown/shortest-path-in-binary-matrix) |
 | LeetCode | [Simplify Path](https://leetcode.com/problems/simplify-path/) | cpp | [View Solution](./LeetCode/Unknown/simplify-path) |
-| LeetCode | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/single-element-in-a-sorted-array) |
 | LeetCode | [Single Number](https://leetcode.com/problems/single-number/) | cpp | [View Solution](./LeetCode/Unknown/single-number) |
 | LeetCode | [Single Number II](https://leetcode.com/problems/single-number-ii/) | cpp | [View Solution](./LeetCode/Unknown/single-number-ii) |
 | LeetCode | [Single Number III](https://leetcode.com/problems/single-number-iii/) | cpp | [View Solution](./LeetCode/Unknown/single-number-iii) |
@@ -578,6 +577,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | cpp | [View Solution](./LeetCode/Medium/981-time-based-key-value-store) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Unknown/top-k-frequent-elements) |
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | cpp | [View Solution](./LeetCode/Unknown/traffic-signal-color) |
+| LeetCode | [Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/) | cpp | [View Solution](./LeetCode/Medium/3998-transform-binary-string-using-subsequence-sort) |
 | LeetCode | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | cpp | [View Solution](./LeetCode/Unknown/trapping-rain-water) |
 | LeetCode | [Triangle](https://leetcode.com/problems/triangle/) | cpp | [View Solution](./LeetCode/Medium/120-triangle) |
 | LeetCode | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | cpp | [View Solution](./LeetCode/Unknown/trim-trailing-vowels) |
