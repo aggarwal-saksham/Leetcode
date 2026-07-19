@@ -81,7 +81,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | cpp | [View Solution](./LeetCode/Unknown/battleships-in-a-board) |
 | LeetCode | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | cpp | [View Solution](./LeetCode/Unknown/best-reachable-tower) |
 | LeetCode | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | cpp | [View Solution](./LeetCode/Easy/121-best-time-to-buy-and-sell-stock) |
-| LeetCode | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-ii) |
+| LeetCode | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | cpp | [View Solution](./LeetCode/Medium/122-best-time-to-buy-and-sell-stock-ii) |
 | LeetCode | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | cpp | [View Solution](./LeetCode/Hard/123-best-time-to-buy-and-sell-stock-iii) |
 | LeetCode | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-iv) |
 | LeetCode | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-v) |
@@ -364,6 +364,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | cpp | [View Solution](./LeetCode/Unknown/maximum-sum-of-three-numbers-divisible-by-three) |
 | LeetCode | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-total-subarray-value-i) |
 | LeetCode | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | cpp | [View Solution](./LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements) |
+| LeetCode | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-alternating-sequence) |
 | LeetCode | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-i) |
 | LeetCode | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-ii) |
 | LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/maximum-width-of-binary-tree) |
@@ -483,6 +484,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | cpp | [View Solution](./LeetCode/Unknown/query-kth-smallest-trimmed-number) |
 | LeetCode | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | cpp | [View Solution](./LeetCode/Easy/1331-rank-transform-of-an-array) |
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
+| LeetCode | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | cpp | [View Solution](./LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair) |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
 | LeetCode | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | cpp | [View Solution](./LeetCode/Unknown/relative-ranks) |
 | LeetCode | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | cpp | [View Solution](./LeetCode/Unknown/remove-all-occurrences-of-a-substring) |
@@ -516,8 +518,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | cpp | [View Solution](./LeetCode/Unknown/search-a-2d-matrix) |
 | LeetCode | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-a-2d-matrix-ii) |
 | LeetCode | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/search-in-a-binary-search-tree) |
-| LeetCode | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array) |
-| LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-in-rotated-sorted-array-ii) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
 | LeetCode | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | cpp | [View Solution](./LeetCode/Medium/1291-sequential-digits) |
