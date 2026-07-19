@@ -1,5 +1,21 @@
 [
   {
+    "id": "2071511200",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784314973000,
+    "title": "Best Time to Buy and Sell Stock II",
+    "titleSlug": "best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "id": "2070305578",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784226596000,
+    "title": "Subarrays with K Different Integers",
+    "titleSlug": "subarrays-with-k-different-integers"
+  },
+  {
     "id": "2069616161",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7984,26 +8000,26 @@
     "titleSlug": "find-minimum-in-rotated-sorted-array"
   },
   {
-    "id": "1321765246",
+    "id": "2072682430",
+    "title": "Maximum Value of an Alternating Sequence",
+    "titleSlug": "maximum-value-of-an-alternating-sequence",
+    "timestamp": 1784398575000,
     "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721045913000,
-    "title": "Search in Rotated Sorted Array II",
-    "titleSlug": "search-in-rotated-sorted-array-ii"
+    "statusDisplay": "Accepted"
   },
   {
-    "id": "1321741002",
+    "id": "2072663177",
+    "title": "Rearrange String to Avoid Character Pair",
+    "titleSlug": "rearrange-string-to-avoid-character-pair",
+    "timestamp": 1784397619000,
     "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721044079000,
-    "title": "Search in Rotated Sorted Array",
-    "titleSlug": "search-in-rotated-sorted-array"
+    "statusDisplay": "Accepted"
   },
   {
-    "id": "2070305578",
-    "title": "Subarrays with K Different Integers",
-    "titleSlug": "subarrays-with-k-different-integers",
-    "timestamp": 1784226596000,
+    "id": "2072505754",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+    "timestamp": 1784389790000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
