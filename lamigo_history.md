@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-18 | Leetcode | Maximum Value of an Alternating Sequence | cpp |
+| 2026-07-18 | Leetcode | Rearrange String to Avoid Character Pair | cpp |
+| 2026-07-18 | Leetcode | Amount of Time for Binary Tree to Be Infected | cpp |
+| 2026-07-17 | Leetcode | Best Time to Buy and Sell Stock II | cpp |
 | 2026-07-16 | Leetcode | Subarrays with K Different Integers | cpp |
 | 2026-07-16 | Leetcode | Number of Substrings Containing All Three Characters | cpp |
 | 2026-07-16 | Leetcode | Sum of GCD of Formed Pairs | cpp |
@@ -1003,5 +1007,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-16 | Leetcode | Single Element in a Sorted Array | cpp |
 | 2024-07-15 | Leetcode | Find Minimum in Rotated Sorted Array | cpp |
 | 2024-07-15 | Leetcode | Find Minimum in Rotated Sorted Array | cpp |
-| 2024-07-15 | Leetcode | Search in Rotated Sorted Array II | cpp |
-| 2024-07-15 | Leetcode | Search in Rotated Sorted Array | cpp |
