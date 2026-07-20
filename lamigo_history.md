@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-20 | Leetcode | Longest Palindromic Substring | cpp |
 | 2026-07-19 | Leetcode | Transform Binary String Using Subsequence Sort | cpp |
 | 2026-07-18 | Leetcode | Maximum Value of an Alternating Sequence | cpp |
 | 2026-07-18 | Leetcode | Rearrange String to Avoid Character Pair | cpp |
@@ -1004,4 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-17 | Leetcode | Find the Smallest Divisor Given a Threshold | cpp |
 | 2024-07-17 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
 | 2024-07-16 | Leetcode | Koko Eating Bananas | cpp |
-| 2024-07-16 | Leetcode | Find Peak Element | cpp |
