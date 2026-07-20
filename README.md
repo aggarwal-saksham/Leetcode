@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-551_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-550_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 551 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 550 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **551** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **550** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -216,7 +216,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | cpp | [View Solution](./LeetCode/Unknown/find-median-from-data-stream) |
 | LeetCode | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/find-minimum-in-rotated-sorted-array) |
 | LeetCode | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | cpp | [View Solution](./LeetCode/Unknown/find-n-unique-integers-sum-up-to-zero) |
-| LeetCode | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | cpp | [View Solution](./LeetCode/Unknown/find-peak-element) |
 | LeetCode | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | cpp | [View Solution](./LeetCode/Unknown/find-resultant-array-after-removing-anagrams) |
 | LeetCode | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | cpp | [View Solution](./LeetCode/Unknown/find-subsequence-of-length-k-with-the-largest-sum) |
 | LeetCode | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | cpp | [View Solution](./LeetCode/Unknown/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -316,7 +315,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-harmonious-subsequence) |
 | LeetCode | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Medium/300-longest-increasing-subsequence) |
 | LeetCode | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | cpp | [View Solution](./LeetCode/Medium/516-longest-palindromic-subsequence) |
-| LeetCode | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | cpp | [View Solution](./LeetCode/Unknown/longest-palindromic-substring) |
+| LeetCode | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | cpp | [View Solution](./LeetCode/Medium/5-longest-palindromic-substring) |
 | LeetCode | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | cpp | [View Solution](./LeetCode/Unknown/longest-repeating-character-replacement) |
 | LeetCode | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | cpp | [View Solution](./LeetCode/Unknown/longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | LeetCode | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | cpp | [View Solution](./LeetCode/Unknown/longest-string-chain) |
