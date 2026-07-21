@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-550_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-551_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 550 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 551 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **550** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **551** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -274,7 +274,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/identify-the-largest-outlier-in-an-array) |
 | LeetCode | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | cpp | [View Solution](./LeetCode/Unknown/implement-queue-using-stacks) |
 | LeetCode | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | cpp | [View Solution](./LeetCode/Unknown/implement-stack-using-queues) |
-| LeetCode | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | cpp | [View Solution](./LeetCode/Unknown/implement-trie-prefix-tree) |
+| LeetCode | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | cpp | [View Solution](./LeetCode/Medium/208-implement-trie-prefix-tree) |
 | LeetCode | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/increasing-triplet-subsequence) |
 | LeetCode | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | cpp | [View Solution](./LeetCode/Unknown/insert-delete-getrandom-o1) |
 | LeetCode | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/insert-greatest-common-divisors-in-linked-list) |
@@ -561,6 +561,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | cpp | [View Solution](./LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs) |
 | LeetCode | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-good-numbers) |
 | LeetCode | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-mutated-array-closest-to-target) |
+| LeetCode | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | cpp | [View Solution](./LeetCode/Medium/1315-sum-of-nodes-with-even-valued-grandparent) |
 | LeetCode | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-sortable-integers) |
 | LeetCode | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-subarray-minimums) |
 | LeetCode | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | cpp | [View Solution](./LeetCode/Unknown/sum-of-subarray-ranges) |
