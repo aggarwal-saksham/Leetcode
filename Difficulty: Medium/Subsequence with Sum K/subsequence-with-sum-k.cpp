@@ -1,17 +1,21 @@
 class Solution {
-  public:
-     bool rec(int i, vector<int> &arr, int target, vector<vector<int>> &dp){
-        if(target == 0) return true;
-        if(i < 0 || target < 0) return false;
+public:
+    bool rec(int i, vector<int>& nums, int k, vector<vector<int>>& dp) {
+        if(k == 0) return true;
+        if(i == nums.size() || k < 0) return false;
 
-        if(dp[i][target] != -1) return dp[i][target];
+        if(dp[i][k] != -1) return dp[i][k];
 
-        return dp[i][target] = rec(i - 1, arr, target - arr[i], dp) ||
-                            rec(i - 1, arr, target, dp);
+        bool take = rec(i + 1, nums, k - nums[i], dp);
+        bool notake = rec(i + 1, nums, k, dp);
+
+        return dp[i][k] = take || notake;
     }
 
     bool checkSubsequenceSum(vector<int>& arr, int k) {
-        vector<vector<int>> dp(arr.size(), vector<int>(k + 1, -1));
-        return rec(arr.size() - 1, arr, k, dp);
+        int n = arr.size();
+        vector<vector<int>> dp(n, vector<int>(k + 1, -1));
+
+        return rec(0, arr, k, dp);
     }
 };
