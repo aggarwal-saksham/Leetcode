@@ -1,5 +1,21 @@
 [
   {
+    "id": "2076319878",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784661972000,
+    "title": "Implement Trie (Prefix Tree)",
+    "titleSlug": "implement-trie-prefix-tree"
+  },
+  {
+    "id": "2076092637",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784651477000,
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "titleSlug": "sum-of-nodes-with-even-valued-grandparent"
+  },
+  {
     "id": "2074383979",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7984,34 +8000,10 @@
     "titleSlug": "minimum-number-of-days-to-make-m-bouquets"
   },
   {
-    "id": "1324116104",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721222399000,
-    "title": "Find the Smallest Divisor Given a Threshold",
-    "titleSlug": "find-the-smallest-divisor-given-a-threshold"
-  },
-  {
-    "id": "1324049352",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721217707000,
-    "title": "Minimum Number of Days to Make m Bouquets",
-    "titleSlug": "minimum-number-of-days-to-make-m-bouquets"
-  },
-  {
-    "id": "2076319878",
-    "title": "Implement Trie (Prefix Tree)",
-    "titleSlug": "implement-trie-prefix-tree",
-    "timestamp": 1784661972000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2076092637",
-    "title": "Sum of Nodes with Even-Valued Grandparent",
-    "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
-    "timestamp": 1784651477000,
+    "id": "2077614258",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+    "timestamp": 1784748855000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
