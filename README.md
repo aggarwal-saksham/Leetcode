@@ -367,7 +367,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-i) |
 | LeetCode | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-ii) |
 | LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/maximum-width-of-binary-tree) |
-| LeetCode | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-xor-of-two-numbers-in-an-array) |
+| LeetCode | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | cpp | [View Solution](./LeetCode/Medium/421-maximum-xor-of-two-numbers-in-an-array) |
 | LeetCode | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-xor-with-an-element-from-array) |
 | LeetCode | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | cpp | [View Solution](./LeetCode/Hard/4-median-of-two-sorted-arrays) |
 | LeetCode | [Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/) | cpp | [View Solution](./LeetCode/Unknown/merge-adjacent-equal-elements) |
