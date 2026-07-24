@@ -33,7 +33,7 @@ class Solution {
                 cnt--;
             }
         }//n + n
-        if(cnt > platforms) platforms = cnt;
+        // if(cnt > platforms) platforms = cnt;
         return platforms;
         
     }
