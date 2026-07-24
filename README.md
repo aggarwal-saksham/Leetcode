@@ -104,7 +104,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | cpp | [View Solution](./LeetCode/Unknown/build-an-array-with-stack-operations) |
 | LeetCode | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | cpp | [View Solution](./LeetCode/Unknown/burst-balloons) |
 | LeetCode | [Candy](https://leetcode.com/problems/candy/) | cpp | [View Solution](./LeetCode/Unknown/candy) |
-| LeetCode | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | cpp | [View Solution](./LeetCode/Unknown/capacity-to-ship-packages-within-d-days) |
 | LeetCode | [Car Fleet](https://leetcode.com/problems/car-fleet/) | cpp | [View Solution](./LeetCode/Unknown/car-fleet) |
 | LeetCode | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | cpp | [View Solution](./LeetCode/Unknown/categorize-box-according-to-criteria) |
 | LeetCode | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | cpp | [View Solution](./LeetCode/Unknown/cheapest-flights-within-k-stops) |
@@ -427,7 +426,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | cpp | [View Solution](./LeetCode/Unknown/mirror-distance-of-an-integer) |
 | LeetCode | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | cpp | [View Solution](./LeetCode/Unknown/monotone-increasing-digits) |
 | LeetCode | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | cpp | [View Solution](./LeetCode/Unknown/most-stones-removed-with-same-row-or-column) |
-| LeetCode | [N-Queens](https://leetcode.com/problems/n-queens/) | cpp | [View Solution](./LeetCode/Unknown/n-queens) |
+| LeetCode | [N-Queens](https://leetcode.com/problems/n-queens/) | cpp | [View Solution](./LeetCode/Hard/51-n-queens) |
 | LeetCode | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | cpp | [View Solution](./LeetCode/Unknown/n-queens-ii) |
 | LeetCode | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | cpp | [View Solution](./LeetCode/Unknown/neighboring-bitwise-xor) |
 | LeetCode | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | cpp | [View Solution](./LeetCode/Unknown/network-delay-time) |
@@ -574,6 +573,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | cpp | [View Solution](./LeetCode/Unknown/take-gifts-from-the-richest-pile) |
 | LeetCode | [Target Sum](https://leetcode.com/problems/target-sum/) | cpp | [View Solution](./LeetCode/Unknown/target-sum) |
 | LeetCode | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | cpp | [View Solution](./LeetCode/Unknown/task-scheduler) |
+| LeetCode | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | cpp | [View Solution](./LeetCode/Hard/218-the-skyline-problem) |
 | LeetCode | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | cpp | [View Solution](./LeetCode/Medium/981-time-based-key-value-store) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Unknown/top-k-frequent-elements) |
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | cpp | [View Solution](./LeetCode/Unknown/traffic-signal-color) |
