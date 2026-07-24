@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-23 | Leetcode | N-Queens | cpp |
+| 2026-07-23 | Leetcode | Largest Rectangle in Histogram | cpp |
+| 2026-07-23 | Leetcode | The Skyline Problem | cpp |
 | 2026-07-22 | Leetcode | Maximum XOR of Two Numbers in an Array | cpp |
 | 2026-07-21 | Leetcode | Implement Trie (Prefix Tree) | cpp |
 | 2026-07-21 | Leetcode | Sum of Nodes with Even-Valued Grandparent | cpp |
@@ -1002,6 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-19 | Leetcode | Split Array Largest Sum | cpp |
 | 2024-07-19 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
 | 2024-07-18 | Leetcode | Kth Missing Positive Number | cpp |
-| 2024-07-17 | Leetcode | Capacity To Ship Packages Within D Days | cpp |
-| 2024-07-17 | Leetcode | Find the Smallest Divisor Given a Threshold | cpp |
-| 2024-07-17 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
