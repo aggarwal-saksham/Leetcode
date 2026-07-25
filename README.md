@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-551_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-552_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 551 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 552 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **551** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **552** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -540,6 +540,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | cpp | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Unknown/sort-list) |
 | LeetCode | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | cpp | [View Solution](./LeetCode/Unknown/sort-matrix-by-diagonals) |
+| LeetCode | [Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | cpp | [View Solution](./LeetCode/Medium/3913-sort-vowels-by-frequency) |
 | LeetCode | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/sort-vowels-in-a-string) |
 | LeetCode | [Special Array I](https://leetcode.com/problems/special-array-i/) | cpp | [View Solution](./LeetCode/Unknown/special-array-i) |
 | LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
