@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-24 | Leetcode | Sort Vowels by Frequency | cpp |
+| 2026-07-24 | Leetcode | Sort Vowels by Frequency | cpp |
 | 2026-07-23 | Leetcode | N-Queens | cpp |
 | 2026-07-23 | Leetcode | Largest Rectangle in Histogram | cpp |
 | 2026-07-23 | Leetcode | The Skyline Problem | cpp |
@@ -1004,4 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-19 | Leetcode | Split Array Largest Sum | cpp |
 | 2024-07-19 | Leetcode | Split Array Largest Sum | cpp |
 | 2024-07-19 | Leetcode | Minimum Number of Days to Make m Bouquets | cpp |
-| 2024-07-18 | Leetcode | Kth Missing Positive Number | cpp |
