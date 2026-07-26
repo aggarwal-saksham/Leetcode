@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-554_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 554 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **554** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -333,6 +333,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | cpp | [View Solution](./LeetCode/Unknown/max-difference-you-can-get-from-changing-an-integer) |
 | LeetCode | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | cpp | [View Solution](./LeetCode/Unknown/max-sum-of-a-pair-with-equal-sum-of-digits) |
 | LeetCode | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | cpp | [View Solution](./LeetCode/Unknown/maximal-rectangle) |
+| LeetCode | [Maximal Square](https://leetcode.com/problems/maximal-square/) | cpp | [View Solution](./LeetCode/Medium/221-maximal-square) |
 | LeetCode | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | cpp | [View Solution](./LeetCode/Unknown/maximize-sum-of-at-most-k-distinct-elements) |
 | LeetCode | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | cpp | [View Solution](./LeetCode/Unknown/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | LeetCode | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | cpp | [View Solution](./LeetCode/Unknown/maximum-absolute-sum-of-any-subarray) |
