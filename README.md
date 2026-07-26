@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-552_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 552 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **552** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -295,6 +295,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | cpp | [View Solution](./LeetCode/Unknown/kth-smallest-element-in-a-bst) |
 | LeetCode | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | cpp | [View Solution](./LeetCode/Unknown/largest-divisible-subset) |
 | LeetCode | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | cpp | [View Solution](./LeetCode/Unknown/largest-even-number) |
+| LeetCode | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | cpp | [View Solution](./LeetCode/Easy/4000-largest-integer-with-given-digit-sum) |
 | LeetCode | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | cpp | [View Solution](./LeetCode/Unknown/largest-odd-number-in-string) |
 | LeetCode | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | cpp | [View Solution](./LeetCode/Unknown/largest-rectangle-in-histogram) |
 | LeetCode | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | cpp | [View Solution](./LeetCode/Unknown/last-stone-weight) |
