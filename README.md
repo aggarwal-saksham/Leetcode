@@ -68,7 +68,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | cpp | [View Solution](./LeetCode/Unknown/3sum-closest) |
 | LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Medium/18-4sum) |
 | LeetCode | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | cpp | [View Solution](./LeetCode/Unknown/absolute-difference-between-maximum-and-minimum-k-elements) |
-| LeetCode | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | cpp | [View Solution](./LeetCode/Unknown/accounts-merge) |
+| LeetCode | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | cpp | [View Solution](./LeetCode/Medium/721-accounts-merge) |
 | LeetCode | [Add Strings](https://leetcode.com/problems/add-strings/) | cpp | [View Solution](./LeetCode/Unknown/add-strings) |
 | LeetCode | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | cpp | [View Solution](./LeetCode/Medium/2-add-two-numbers) |
 | LeetCode | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | cpp | [View Solution](./LeetCode/Unknown/alice-and-bob-playing-flower-game) |
