@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-27 | Leetcode | Intersection of Two Linked Lists | cpp |
+| 2026-07-27 | Leetcode | Accounts Merge | cpp |
 | 2026-07-26 | Leetcode | Maximal Square | cpp |
 | 2026-07-26 | Leetcode | Largest Integer With Given Digit Sum | cpp |
 | 2026-07-24 | Leetcode | Sort Vowels by Frequency | cpp |
@@ -1004,4 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-07-30 | Leetcode | Maximum Product Subarray | cpp |
 | 2024-07-30 | Leetcode | Majority Element II | cpp |
 | 2024-07-25 | Leetcode | Pascal's Triangle | cpp |
-| 2024-07-25 | Leetcode | Two Sum | cpp |
