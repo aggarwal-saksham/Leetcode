@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-554_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-555_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 554 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 555 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **554** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **555** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -535,6 +535,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/) | cpp | [View Solution](./LeetCode/Unknown/smallest-all-ones-multiple) |
 | LeetCode | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | cpp | [View Solution](./LeetCode/Unknown/smallest-number-with-all-set-bits) |
 | LeetCode | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | cpp | [View Solution](./LeetCode/Unknown/smallest-pair-with-different-frequencies) |
+| LeetCode | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | cpp | [View Solution](./LeetCode/Medium/3517-smallest-palindromic-rearrangement-i) |
 | LeetCode | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | cpp | [View Solution](./LeetCode/Unknown/smallest-subsequence-of-distinct-characters) |
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | cpp | [View Solution](./LeetCode/Unknown/sort-an-array) |
 | LeetCode | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | cpp | [View Solution](./LeetCode/Unknown/sort-array-by-increasing-frequency) |
