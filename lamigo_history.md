@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-30 | Leetcode | Binary Tree Level Order Traversal | cpp |
+| 2026-07-29 | Leetcode | Sort List | cpp |
 | 2026-07-28 | Leetcode | Smallest Palindromic Rearrangement I | cpp |
 | 2026-07-28 | Leetcode | Smallest Palindromic Rearrangement I | cpp |
 | 2026-07-27 | Leetcode | Intersection of Two Linked Lists | cpp |
@@ -1003,6 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-04 | Leetcode | Search a 2D Matrix II | cpp |
 | 2024-08-03 | Leetcode | Search a 2D Matrix | cpp |
 | 2024-08-02 | Leetcode | Remove Outermost Parentheses | cpp |
-| 2024-08-01 | Leetcode | 3Sum | cpp |
-| 2024-07-31 | Leetcode | Merge Sorted Array | cpp |
-| 2024-07-30 | Leetcode | Maximum Product Subarray | cpp |
