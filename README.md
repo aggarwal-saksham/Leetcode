@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-555_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 555 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **555** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -91,7 +91,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-to-greater-sum-tree) |
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Unknown/binary-subarrays-with-sum) |
 | LeetCode | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-inorder-traversal) |
-| LeetCode | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-level-order-traversal) |
+| LeetCode | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | cpp | [View Solution](./LeetCode/Medium/102-binary-tree-level-order-traversal) |
 | LeetCode | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-level-order-traversal-ii) |
 | LeetCode | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-maximum-path-sum) |
 | LeetCode | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-paths) |
@@ -357,7 +357,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | cpp | [View Solution](./LeetCode/Unknown/maximum-points-you-can-obtain-from-cards) |
 | LeetCode | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | cpp | [View Solution](./LeetCode/Unknown/maximum-prime-difference) |
 | LeetCode | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-product-of-two-elements-in-an-array) |
-| LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | cpp | [View Solution](./LeetCode/Unknown/maximum-product-subarray) |
 | LeetCode | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | cpp | [View Solution](./LeetCode/Unknown/maximum-score-from-removing-substrings) |
 | LeetCode | [Maximum Score of a Split](https://leetcode.com/problems/maximum-score-of-a-split/) | cpp | [View Solution](./LeetCode/Unknown/maximum-score-of-a-split) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | cpp | [View Solution](./LeetCode/Unknown/maximum-subarray) |
@@ -376,7 +375,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | cpp | [View Solution](./LeetCode/Unknown/merge-intervals) |
 | LeetCode | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | cpp | [View Solution](./LeetCode/Hard/23-merge-k-sorted-lists) |
 | LeetCode | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | cpp | [View Solution](./LeetCode/Unknown/merge-nodes-in-between-zeros) |
-| LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/merge-sorted-array) |
 | LeetCode | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | cpp | [View Solution](./LeetCode/Unknown/merge-triplets-to-form-target-triplet) |
 | LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode/Easy/21-merge-two-sorted-lists) |
 | LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/middle-of-the-linked-list) |
@@ -541,7 +539,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | cpp | [View Solution](./LeetCode/Unknown/sort-array-by-increasing-frequency) |
 | LeetCode | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | cpp | [View Solution](./LeetCode/Unknown/sort-characters-by-frequency) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | cpp | [View Solution](./LeetCode/Medium/75-sort-colors) |
-| LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Unknown/sort-list) |
+| LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Medium/148-sort-list) |
 | LeetCode | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | cpp | [View Solution](./LeetCode/Unknown/sort-matrix-by-diagonals) |
 | LeetCode | [Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | cpp | [View Solution](./LeetCode/Medium/3913-sort-vowels-by-frequency) |
 | LeetCode | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/sort-vowels-in-a-string) |
