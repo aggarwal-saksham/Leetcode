@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-02 | Leetcode | Count of Unfinished Tasks After Each Shift | cpp |
+| 2026-08-02 | Leetcode | Count Subarrays With Even Odd Ratio I | cpp |
+| 2026-08-02 | Leetcode | Maximize Pair Strength Using GCD | cpp |
 | 2026-08-01 | Leetcode | Minimum Initial Strength to Defeat All Monsters | cpp |
 | 2026-08-01 | Leetcode | Count Valid Prefixes | cpp |
 | 2026-07-31 | Leetcode | Pacific Atlantic Water Flow | cpp |
@@ -1004,5 +1007,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-15 | Leetcode | Add Two Numbers | cpp |
 | 2024-08-10 | Leetcode | Remove Linked List Elements | cpp |
 | 2024-08-10 | Leetcode | Remove Linked List Elements | cpp |
-| 2024-08-04 | Leetcode | Find a Peak Element II | cpp |
-| 2024-08-04 | Leetcode | Search a 2D Matrix II | cpp |
