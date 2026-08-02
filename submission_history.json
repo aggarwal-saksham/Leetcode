@@ -1,5 +1,21 @@
 [
   {
+    "id": "2090205423",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785598275000,
+    "title": "Minimum Initial Strength to Defeat All Monsters",
+    "titleSlug": "minimum-initial-strength-to-defeat-all-monsters"
+  },
+  {
+    "id": "2090072254",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785595027000,
+    "title": "Count Valid Prefixes",
+    "titleSlug": "count-valid-prefixes"
+  },
+  {
     "id": "2089192442",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7984,34 +8000,26 @@
     "titleSlug": "remove-linked-list-elements"
   },
   {
-    "id": "1344381899",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1722784566000,
-    "title": "Find a Peak Element II",
-    "titleSlug": "find-a-peak-element-ii"
-  },
-  {
-    "id": "1344326621",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1722780948000,
-    "title": "Search a 2D Matrix II",
-    "titleSlug": "search-a-2d-matrix-ii"
-  },
-  {
-    "id": "2090205423",
-    "title": "Minimum Initial Strength to Defeat All Monsters",
-    "titleSlug": "minimum-initial-strength-to-defeat-all-monsters",
-    "timestamp": 1785598275000,
+    "id": "2091209378",
+    "title": "Count of Unfinished Tasks After Each Shift",
+    "titleSlug": "count-of-unfinished-tasks-after-each-shift",
+    "timestamp": 1785666005000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   },
   {
-    "id": "2090072254",
-    "title": "Count Valid Prefixes",
-    "titleSlug": "count-valid-prefixes",
-    "timestamp": 1785595027000,
+    "id": "2091165379",
+    "title": "Count Subarrays With Even Odd Ratio I",
+    "titleSlug": "count-subarrays-with-even-odd-ratio-i",
+    "timestamp": 1785663357000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2091149011",
+    "title": "Maximize Pair Strength Using GCD",
+    "titleSlug": "maximize-pair-strength-using-gcd",
+    "timestamp": 1785662333000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
