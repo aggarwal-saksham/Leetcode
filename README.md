@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-555_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-557_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 555 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 557 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **555** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **557** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -152,12 +152,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | cpp | [View Solution](./LeetCode/Unknown/count-number-of-maximum-bitwise-or-subsets) |
 | LeetCode | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/count-number-of-nice-subarrays) |
 | LeetCode | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | cpp | [View Solution](./LeetCode/Unknown/count-of-smaller-numbers-after-self) |
+| LeetCode | [Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | cpp | [View Solution](./LeetCode/Medium/4012-count-of-unfinished-tasks-after-each-shift) |
 | LeetCode | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | cpp | [View Solution](./LeetCode/Unknown/count-prefix-and-suffix-pairs-i) |
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | cpp | [View Solution](./LeetCode/Unknown/count-primes) |
 | LeetCode | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | cpp | [View Solution](./LeetCode/Unknown/count-residue-prefixes) |
 | LeetCode | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | cpp | [View Solution](./LeetCode/Unknown/count-sequences-to-k) |
 | LeetCode | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | cpp | [View Solution](./LeetCode/Unknown/count-special-triplets) |
 | LeetCode | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | cpp | [View Solution](./LeetCode/Unknown/count-square-submatrices-with-all-ones) |
+| LeetCode | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | cpp | [View Solution](./LeetCode/Unknown/count-subarrays-with-even-odd-ratio-i) |
 | LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | cpp | [View Solution](./LeetCode/Medium/3737-count-subarrays-with-majority-element-i) |
 | LeetCode | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | cpp | [View Solution](./LeetCode/Unknown/count-subarrays-with-score-less-than-k) |
 | LeetCode | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | cpp | [View Solution](./LeetCode/Medium/2685-count-the-number-of-complete-components) |
@@ -335,6 +337,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | cpp | [View Solution](./LeetCode/Unknown/max-sum-of-a-pair-with-equal-sum-of-digits) |
 | LeetCode | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | cpp | [View Solution](./LeetCode/Unknown/maximal-rectangle) |
 | LeetCode | [Maximal Square](https://leetcode.com/problems/maximal-square/) | cpp | [View Solution](./LeetCode/Medium/221-maximal-square) |
+| LeetCode | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | cpp | [View Solution](./LeetCode/Easy/4010-maximize-pair-strength-using-gcd) |
 | LeetCode | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | cpp | [View Solution](./LeetCode/Unknown/maximize-sum-of-at-most-k-distinct-elements) |
 | LeetCode | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | cpp | [View Solution](./LeetCode/Unknown/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | LeetCode | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | cpp | [View Solution](./LeetCode/Unknown/maximum-absolute-sum-of-any-subarray) |
@@ -516,7 +519,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | cpp | [View Solution](./LeetCode/Unknown/rotting-oranges) |
 | LeetCode | [Same Tree](https://leetcode.com/problems/same-tree/) | cpp | [View Solution](./LeetCode/Unknown/same-tree) |
 | LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | cpp | [View Solution](./LeetCode/Unknown/search-a-2d-matrix) |
-| LeetCode | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | cpp | [View Solution](./LeetCode/Unknown/search-a-2d-matrix-ii) |
 | LeetCode | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/search-in-a-binary-search-tree) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | LeetCode | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | cpp | [View Solution](./LeetCode/Unknown/separate-black-and-white-balls) |
