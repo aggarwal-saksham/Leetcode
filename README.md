@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-553_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-555_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 553 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 555 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **553** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **555** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -163,6 +163,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | cpp | [View Solution](./LeetCode/Medium/2685-count-the-number-of-complete-components) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | cpp | [View Solution](./LeetCode/Unknown/count-the-number-of-consistent-strings) |
 | LeetCode | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | cpp | [View Solution](./LeetCode/Unknown/count-total-number-of-colored-cells) |
+| LeetCode | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | cpp | [View Solution](./LeetCode/Unknown/count-valid-prefixes) |
 | LeetCode | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | cpp | [View Solution](./LeetCode/Unknown/count-valid-word-occurrences) |
 | LeetCode | [Counting Bits](https://leetcode.com/problems/counting-bits/) | cpp | [View Solution](./LeetCode/Unknown/counting-bits) |
 | LeetCode | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | cpp | [View Solution](./LeetCode/Unknown/counting-words-with-a-given-prefix) |
@@ -393,6 +394,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | cpp | [View Solution](./LeetCode/Unknown/minimum-deletion-cost-to-make-all-characters-equal) |
 | LeetCode | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | cpp | [View Solution](./LeetCode/Unknown/minimum-deletions-to-make-string-k-special) |
 | LeetCode | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | cpp | [View Solution](./LeetCode/Medium/931-minimum-falling-path-sum) |
+| LeetCode | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | cpp | [View Solution](./LeetCode/Medium/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | LeetCode | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | cpp | [View Solution](./LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | LeetCode | [Minimum K to Reduce Array Within Limit](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | cpp | [View Solution](./LeetCode/Unknown/minimum-k-to-reduce-array-within-limit) |
 | LeetCode | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | cpp | [View Solution](./LeetCode/Unknown/minimum-length-of-string-after-operations) |
