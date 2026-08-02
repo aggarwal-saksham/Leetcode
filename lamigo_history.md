@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-01 | Leetcode | Minimum Initial Strength to Defeat All Monsters | cpp |
+| 2026-08-01 | Leetcode | Count Valid Prefixes | cpp |
 | 2026-07-31 | Leetcode | Pacific Atlantic Water Flow | cpp |
 | 2026-07-30 | Leetcode | Binary Tree Level Order Traversal | cpp |
 | 2026-07-29 | Leetcode | Sort List | cpp |
@@ -1004,4 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-10 | Leetcode | Remove Linked List Elements | cpp |
 | 2024-08-04 | Leetcode | Find a Peak Element II | cpp |
 | 2024-08-04 | Leetcode | Search a 2D Matrix II | cpp |
-| 2024-08-03 | Leetcode | Search a 2D Matrix | cpp |
