@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-03 | Leetcode | Evaluate Reverse Polish Notation | cpp |
+| 2026-08-03 | Leetcode | Find All Anagrams in a String | cpp |
 | 2026-08-02 | Leetcode | Count of Unfinished Tasks After Each Shift | cpp |
 | 2026-08-02 | Leetcode | Count Subarrays With Even Odd Ratio I | cpp |
 | 2026-08-02 | Leetcode | Maximize Pair Strength Using GCD | cpp |
@@ -1004,6 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-15 | Leetcode | Largest Odd Number in String | cpp |
 | 2024-08-15 | Leetcode | Largest Odd Number in String | cpp |
 | 2024-08-15 | Leetcode | Reverse Words in a String | cpp |
-| 2024-08-15 | Leetcode | Add Two Numbers | cpp |
-| 2024-08-10 | Leetcode | Remove Linked List Elements | cpp |
-| 2024-08-10 | Leetcode | Remove Linked List Elements | cpp |
