@@ -1,5 +1,29 @@
 [
   {
+    "id": "2091209378",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785666005000,
+    "title": "Count of Unfinished Tasks After Each Shift",
+    "titleSlug": "count-of-unfinished-tasks-after-each-shift"
+  },
+  {
+    "id": "2091165379",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785663357000,
+    "title": "Count Subarrays With Even Odd Ratio I",
+    "titleSlug": "count-subarrays-with-even-odd-ratio-i"
+  },
+  {
+    "id": "2091149011",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785662333000,
+    "title": "Maximize Pair Strength Using GCD",
+    "titleSlug": "maximize-pair-strength-using-gcd"
+  },
+  {
     "id": "2090205423",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7976,50 +8000,18 @@
     "titleSlug": "reverse-words-in-a-string"
   },
   {
-    "id": "1356716686",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723734900000,
-    "title": "Add Two Numbers",
-    "titleSlug": "add-two-numbers"
-  },
-  {
-    "id": "1351238176",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723313102000,
-    "title": "Remove Linked List Elements",
-    "titleSlug": "remove-linked-list-elements"
-  },
-  {
-    "id": "1351235703",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723312967000,
-    "title": "Remove Linked List Elements",
-    "titleSlug": "remove-linked-list-elements"
-  },
-  {
-    "id": "2091209378",
-    "title": "Count of Unfinished Tasks After Each Shift",
-    "titleSlug": "count-of-unfinished-tasks-after-each-shift",
-    "timestamp": 1785666005000,
+    "id": "2092627373",
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation",
+    "timestamp": 1785762283000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   },
   {
-    "id": "2091165379",
-    "title": "Count Subarrays With Even Odd Ratio I",
-    "titleSlug": "count-subarrays-with-even-odd-ratio-i",
-    "timestamp": 1785663357000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2091149011",
-    "title": "Maximize Pair Strength Using GCD",
-    "titleSlug": "maximize-pair-strength-using-gcd",
-    "timestamp": 1785662333000,
+    "id": "2092341583",
+    "title": "Find All Anagrams in a String",
+    "titleSlug": "find-all-anagrams-in-a-string",
+    "timestamp": 1785746190000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
