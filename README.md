@@ -159,7 +159,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | cpp | [View Solution](./LeetCode/Unknown/count-sequences-to-k) |
 | LeetCode | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | cpp | [View Solution](./LeetCode/Unknown/count-special-triplets) |
 | LeetCode | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | cpp | [View Solution](./LeetCode/Unknown/count-square-submatrices-with-all-ones) |
-| LeetCode | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | cpp | [View Solution](./LeetCode/Unknown/count-subarrays-with-even-odd-ratio-i) |
+| LeetCode | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | cpp | [View Solution](./LeetCode/Medium/4011-count-subarrays-with-even-odd-ratio-i) |
 | LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | cpp | [View Solution](./LeetCode/Medium/3737-count-subarrays-with-majority-element-i) |
 | LeetCode | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | cpp | [View Solution](./LeetCode/Unknown/count-subarrays-with-score-less-than-k) |
 | LeetCode | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | cpp | [View Solution](./LeetCode/Medium/2685-count-the-number-of-complete-components) |
@@ -196,7 +196,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | cpp | [View Solution](./LeetCode/Unknown/divisible-and-non-divisible-sums-difference) |
 | LeetCode | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | cpp | [View Solution](./LeetCode/Unknown/earliest-time-to-finish-one-task) |
 | LeetCode | [Edit Distance](https://leetcode.com/problems/edit-distance/) | cpp | [View Solution](./LeetCode/Medium/72-edit-distance) |
-| LeetCode | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | cpp | [View Solution](./LeetCode/Unknown/evaluate-reverse-polish-notation) |
+| LeetCode | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | cpp | [View Solution](./LeetCode/Medium/150-evaluate-reverse-polish-notation) |
 | LeetCode | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | cpp | [View Solution](./LeetCode/Unknown/excel-sheet-column-number) |
 | LeetCode | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | cpp | [View Solution](./LeetCode/Unknown/excel-sheet-column-title) |
 | LeetCode | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | cpp | [View Solution](./LeetCode/Unknown/expression-add-operators) |
@@ -206,6 +206,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | cpp | [View Solution](./LeetCode/Unknown/final-prices-with-a-special-discount-in-a-shop) |
 | LeetCode | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | cpp | [View Solution](./LeetCode/Medium/1901-find-a-peak-element-ii) |
 | LeetCode | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | cpp | [View Solution](./LeetCode/Medium/3286-find-a-safe-walk-through-a-grid) |
+| LeetCode | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/find-all-anagrams-in-a-string) |
 | LeetCode | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/find-all-k-distant-indices-in-an-array) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | cpp | [View Solution](./LeetCode/Unknown/find-closest-person) |
 | LeetCode | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/find-elements-in-a-contaminated-binary-tree) |
@@ -497,7 +498,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-list) |
 | LeetCode | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | cpp | [View Solution](./LeetCode/Unknown/remove-duplicates-from-sorted-list-ii) |
 | LeetCode | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | cpp | [View Solution](./LeetCode/Unknown/remove-k-digits) |
-| LeetCode | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | cpp | [View Solution](./LeetCode/Unknown/remove-linked-list-elements) |
 | LeetCode | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | cpp | [View Solution](./LeetCode/Unknown/remove-nth-node-from-end-of-list) |
 | LeetCode | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | cpp | [View Solution](./LeetCode/Unknown/remove-outermost-parentheses) |
 | LeetCode | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | cpp | [View Solution](./LeetCode/Unknown/remove-sub-folders-from-the-filesystem) |
