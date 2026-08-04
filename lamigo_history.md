@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-04 | Leetcode | K Closest Points to Origin | cpp |
 | 2026-08-03 | Leetcode | Evaluate Reverse Polish Notation | cpp |
 | 2026-08-03 | Leetcode | Find All Anagrams in a String | cpp |
 | 2026-08-02 | Leetcode | Count of Unfinished Tasks After Each Shift | cpp |
@@ -1004,5 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-16 | Leetcode | Valid Anagram | cpp |
 | 2024-08-16 | Leetcode | Rotate String | cpp |
 | 2024-08-15 | Leetcode | Largest Odd Number in String | cpp |
-| 2024-08-15 | Leetcode | Largest Odd Number in String | cpp |
-| 2024-08-15 | Leetcode | Reverse Words in a String | cpp |
