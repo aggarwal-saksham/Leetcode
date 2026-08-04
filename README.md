@@ -165,7 +165,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | cpp | [View Solution](./LeetCode/Medium/2685-count-the-number-of-complete-components) |
 | LeetCode | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | cpp | [View Solution](./LeetCode/Unknown/count-the-number-of-consistent-strings) |
 | LeetCode | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | cpp | [View Solution](./LeetCode/Unknown/count-total-number-of-colored-cells) |
-| LeetCode | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | cpp | [View Solution](./LeetCode/Unknown/count-valid-prefixes) |
+| LeetCode | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | cpp | [View Solution](./LeetCode/Easy/4006-count-valid-prefixes) |
 | LeetCode | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | cpp | [View Solution](./LeetCode/Unknown/count-valid-word-occurrences) |
 | LeetCode | [Counting Bits](https://leetcode.com/problems/counting-bits/) | cpp | [View Solution](./LeetCode/Unknown/counting-bits) |
 | LeetCode | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | cpp | [View Solution](./LeetCode/Unknown/counting-words-with-a-given-prefix) |
@@ -290,7 +290,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | cpp | [View Solution](./LeetCode/Unknown/isomorphic-strings) |
 | LeetCode | [Jump Game](https://leetcode.com/problems/jump-game/) | cpp | [View Solution](./LeetCode/Unknown/jump-game) |
 | LeetCode | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | cpp | [View Solution](./LeetCode/Unknown/jump-game-ii) |
-| LeetCode | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | cpp | [View Solution](./LeetCode/Unknown/k-closest-points-to-origin) |
+| LeetCode | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | cpp | [View Solution](./LeetCode/Medium/973-k-closest-points-to-origin) |
 | LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Medium/875-koko-eating-bananas) |
 | LeetCode | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-a-stream) |
 | LeetCode | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/kth-largest-element-in-an-array) |
