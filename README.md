@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-557_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-558_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 557 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 558 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **557** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **558** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -63,7 +63,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Problem | Language | Solution Folder |
 | :--- | :--- | :--- | :--- |
-| LeetCode | [01 Matrix](https://leetcode.com/problems/01-matrix/) | cpp | [View Solution](./LeetCode/Unknown/01-matrix) |
+| LeetCode | [01 Matrix](https://leetcode.com/problems/01-matrix/) | cpp | [View Solution](./LeetCode/Medium/542-01-matrix) |
 | LeetCode | [3Sum](https://leetcode.com/problems/3sum/) | cpp | [View Solution](./LeetCode/Medium/15-3sum) |
 | LeetCode | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | cpp | [View Solution](./LeetCode/Unknown/3sum-closest) |
 | LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Medium/18-4sum) |
@@ -274,6 +274,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | cpp | [View Solution](./LeetCode/Unknown/house-robber-ii) |
 | LeetCode | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | cpp | [View Solution](./LeetCode/Medium/337-house-robber-iii) |
 | LeetCode | [House Robber V](https://leetcode.com/problems/house-robber-v/) | cpp | [View Solution](./LeetCode/Unknown/house-robber-v) |
+| LeetCode | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | cpp | [View Solution](./LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | LeetCode | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/identify-the-largest-outlier-in-an-array) |
 | LeetCode | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | cpp | [View Solution](./LeetCode/Unknown/implement-queue-using-stacks) |
 | LeetCode | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | cpp | [View Solution](./LeetCode/Unknown/implement-stack-using-queues) |
