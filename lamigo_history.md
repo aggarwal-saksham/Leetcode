@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-06 | Leetcode | 01 Matrix | cpp |
+| 2026-08-05 | Leetcode | How Many Numbers Are Smaller Than the Current Number | cpp |
+| 2026-08-05 | Leetcode | Partition Equal Subset Sum | cpp |
 | 2026-08-04 | Leetcode | K Closest Points to Origin | cpp |
 | 2026-08-03 | Leetcode | Evaluate Reverse Polish Notation | cpp |
 | 2026-08-03 | Leetcode | Find All Anagrams in a String | cpp |
@@ -1002,6 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-16 | Leetcode | Middle of the Linked List | cpp |
 | 2024-08-16 | Leetcode | Middle of the Linked List | cpp |
 | 2024-08-16 | Leetcode | Valid Anagram | cpp |
-| 2024-08-16 | Leetcode | Valid Anagram | cpp |
-| 2024-08-16 | Leetcode | Rotate String | cpp |
-| 2024-08-15 | Leetcode | Largest Odd Number in String | cpp |
