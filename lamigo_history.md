@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-08 | Leetcode | Non-overlapping Intervals | cpp |
+| 2026-08-07 | Leetcode | Minimum Cost For Tickets | cpp |
 | 2026-08-06 | Leetcode | 01 Matrix | cpp |
 | 2026-08-05 | Leetcode | How Many Numbers Are Smaller Than the Current Number | cpp |
 | 2026-08-05 | Leetcode | Partition Equal Subset Sum | cpp |
@@ -1003,5 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-17 | Leetcode | Reverse Linked List | cpp |
 | 2024-08-17 | Leetcode | Reverse Linked List | cpp |
 | 2024-08-16 | Leetcode | Middle of the Linked List | cpp |
-| 2024-08-16 | Leetcode | Middle of the Linked List | cpp |
-| 2024-08-16 | Leetcode | Valid Anagram | cpp |
