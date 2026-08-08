@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-558_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-559_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 558 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 559 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **558** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **559** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -392,6 +392,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Adjacent Swaps to Alternate Parity](https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity/) | cpp | [View Solution](./LeetCode/Unknown/minimum-adjacent-swaps-to-alternate-parity) |
 | LeetCode | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | cpp | [View Solution](./LeetCode/Unknown/minimum-bit-flips-to-convert-number) |
 | LeetCode | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | cpp | [View Solution](./LeetCode/Unknown/minimum-capacity-box) |
+| LeetCode | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | cpp | [View Solution](./LeetCode/Medium/983-minimum-cost-for-tickets) |
 | LeetCode | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | cpp | [View Solution](./LeetCode/Unknown/minimum-cost-to-acquire-required-items) |
 | LeetCode | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | cpp | [View Solution](./LeetCode/Unknown/minimum-cost-to-cut-a-stick) |
 | LeetCode | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | cpp | [View Solution](./LeetCode/Unknown/minimum-cost-to-equalize-arrays-using-swaps) |
@@ -442,7 +443,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-ii) |
 | LeetCode | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-iii) |
 | LeetCode | [Next Permutation](https://leetcode.com/problems/next-permutation/) | cpp | [View Solution](./LeetCode/Unknown/next-permutation) |
-| LeetCode | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | cpp | [View Solution](./LeetCode/Unknown/non-overlapping-intervals) |
+| LeetCode | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | cpp | [View Solution](./LeetCode/Medium/435-non-overlapping-intervals) |
 | LeetCode | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | cpp | [View Solution](./LeetCode/Unknown/number-of-1-bits) |
 | LeetCode | [Number of Alternating XOR Partitions](https://leetcode.com/problems/number-of-alternating-xor-partitions/) | cpp | [View Solution](./LeetCode/Unknown/number-of-alternating-xor-partitions) |
 | LeetCode | [Number of Centered Subarrays](https://leetcode.com/problems/number-of-centered-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/number-of-centered-subarrays) |
