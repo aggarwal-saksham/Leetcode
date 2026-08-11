@@ -1,5 +1,37 @@
 [
   {
+    "id": "2100687656",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786297899000,
+    "title": "Weighted Sum of a Tree",
+    "titleSlug": "weighted-sum-of-a-tree"
+  },
+  {
+    "id": "2100481147",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786287340000,
+    "title": "Minimum Total Price After Applying Discounts",
+    "titleSlug": "minimum-total-price-after-applying-discounts"
+  },
+  {
+    "id": "2100394266",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786282396000,
+    "title": "Palindromic Substrings",
+    "titleSlug": "palindromic-substrings"
+  },
+  {
+    "id": "2098790043",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786173364000,
+    "title": "Non-overlapping Intervals",
+    "titleSlug": "non-overlapping-intervals"
+  },
+  {
     "id": "2097599975",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7968,42 +8000,10 @@
     "titleSlug": "linked-list-cycle"
   },
   {
-    "id": "1358661811",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723881715000,
-    "title": "Reverse Linked List",
-    "titleSlug": "reverse-linked-list"
-  },
-  {
-    "id": "1358633615",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723879666000,
-    "title": "Reverse Linked List",
-    "titleSlug": "reverse-linked-list"
-  },
-  {
-    "id": "1358621216",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723878815000,
-    "title": "Reverse Linked List",
-    "titleSlug": "reverse-linked-list"
-  },
-  {
-    "id": "1357829165",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723816083000,
-    "title": "Middle of the Linked List",
-    "titleSlug": "middle-of-the-linked-list"
-  },
-  {
-    "id": "2098790043",
-    "title": "Non-overlapping Intervals",
-    "titleSlug": "non-overlapping-intervals",
-    "timestamp": 1786173364000,
+    "id": "2102012251",
+    "title": "Container With Most Water",
+    "titleSlug": "container-with-most-water",
+    "timestamp": 1786391014000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
