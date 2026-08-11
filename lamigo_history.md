@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-11 | Leetcode | Number of Islands | cpp |
+| 2026-08-11 | Leetcode | Course Schedule II | cpp |
+| 2026-08-11 | Leetcode | Course Schedule | cpp |
 | 2026-08-10 | Leetcode | Container With Most Water | cpp |
 | 2026-08-09 | Leetcode | Weighted Sum of a Tree | cpp |
 | 2026-08-09 | Leetcode | Minimum Total Price After Applying Discounts | cpp |
@@ -1004,4 +1007,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-18 | Leetcode | Palindrome Linked List | cpp |
 | 2024-08-18 | Leetcode | Palindrome Linked List | cpp |
 | 2024-08-17 | Leetcode | Linked List Cycle II | cpp |
-| 2024-08-17 | Leetcode | Linked List Cycle | cpp |
