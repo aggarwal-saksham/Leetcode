@@ -170,7 +170,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Counting Bits](https://leetcode.com/problems/counting-bits/) | cpp | [View Solution](./LeetCode/Unknown/counting-bits) |
 | LeetCode | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | cpp | [View Solution](./LeetCode/Unknown/counting-words-with-a-given-prefix) |
 | LeetCode | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | cpp | [View Solution](./LeetCode/Unknown/coupon-code-validator) |
-| LeetCode | [Course Schedule](https://leetcode.com/problems/course-schedule/) | cpp | [View Solution](./LeetCode/Unknown/course-schedule) |
+| LeetCode | [Course Schedule](https://leetcode.com/problems/course-schedule/) | cpp | [View Solution](./LeetCode/Medium/207-course-schedule) |
 | LeetCode | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | cpp | [View Solution](./LeetCode/Unknown/course-schedule-ii) |
 | LeetCode | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | cpp | [View Solution](./LeetCode/Easy/3963-create-grid-with-exactly-one-path) |
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode/Unknown/daily-temperatures) |
@@ -451,7 +451,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-closed-islands) |
 | LeetCode | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | cpp | [View Solution](./LeetCode/Easy/3986-number-of-elapsed-seconds-between-two-times) |
 | LeetCode | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | cpp | [View Solution](./LeetCode/Unknown/number-of-enclaves) |
-| LeetCode | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | cpp | [View Solution](./LeetCode/Unknown/number-of-islands) |
+| LeetCode | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | cpp | [View Solution](./LeetCode/Medium/200-number-of-islands) |
 | LeetCode | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/number-of-longest-increasing-subsequence) |
 | LeetCode | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | cpp | [View Solution](./LeetCode/Unknown/number-of-operations-to-make-network-connected) |
 | LeetCode | [Number of Prefix Connected Groups](https://leetcode.com/problems/number-of-prefix-connected-groups/) | cpp | [View Solution](./LeetCode/Unknown/number-of-prefix-connected-groups) |
@@ -617,7 +617,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | cpp | [View Solution](./LeetCode/Unknown/vowel-consonant-score) |
 | LeetCode | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/vowels-game-in-a-string) |
 | LeetCode | [Water Bottles](https://leetcode.com/problems/water-bottles/) | cpp | [View Solution](./LeetCode/Unknown/water-bottles) |
-| LeetCode | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | cpp | [View Solution](./LeetCode/Unknown/weighted-sum-of-a-tree) |
+| LeetCode | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | cpp | [View Solution](./LeetCode/Medium/4015-weighted-sum-of-a-tree) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Unknown/weighted-word-mapping) |
 | LeetCode | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | cpp | [View Solution](./LeetCode/Hard/44-wildcard-matching) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Unknown/word-break) |
