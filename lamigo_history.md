@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-10 | Leetcode | Container With Most Water | cpp |
+| 2026-08-09 | Leetcode | Weighted Sum of a Tree | cpp |
+| 2026-08-09 | Leetcode | Minimum Total Price After Applying Discounts | cpp |
+| 2026-08-09 | Leetcode | Palindromic Substrings | cpp |
 | 2026-08-08 | Leetcode | Non-overlapping Intervals | cpp |
 | 2026-08-07 | Leetcode | Minimum Cost For Tickets | cpp |
 | 2026-08-06 | Leetcode | 01 Matrix | cpp |
@@ -1001,7 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-18 | Leetcode | Palindrome Linked List | cpp |
 | 2024-08-17 | Leetcode | Linked List Cycle II | cpp |
 | 2024-08-17 | Leetcode | Linked List Cycle | cpp |
-| 2024-08-17 | Leetcode | Reverse Linked List | cpp |
-| 2024-08-17 | Leetcode | Reverse Linked List | cpp |
-| 2024-08-17 | Leetcode | Reverse Linked List | cpp |
-| 2024-08-16 | Leetcode | Middle of the Linked List | cpp |
