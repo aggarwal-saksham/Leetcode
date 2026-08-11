@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-561_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-562_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 561 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 562 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **561** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **562** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -171,7 +171,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | cpp | [View Solution](./LeetCode/Unknown/counting-words-with-a-given-prefix) |
 | LeetCode | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | cpp | [View Solution](./LeetCode/Unknown/coupon-code-validator) |
 | LeetCode | [Course Schedule](https://leetcode.com/problems/course-schedule/) | cpp | [View Solution](./LeetCode/Medium/207-course-schedule) |
-| LeetCode | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | cpp | [View Solution](./LeetCode/Unknown/course-schedule-ii) |
+| LeetCode | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | cpp | [View Solution](./LeetCode/Medium/210-course-schedule-ii) |
 | LeetCode | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | cpp | [View Solution](./LeetCode/Easy/3963-create-grid-with-exactly-one-path) |
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode/Unknown/daily-temperatures) |
 | LeetCode | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | cpp | [View Solution](./LeetCode/Unknown/delete-characters-to-make-fancy-string) |
@@ -363,6 +363,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | cpp | [View Solution](./LeetCode/Unknown/maximum-points-you-can-obtain-from-cards) |
 | LeetCode | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | cpp | [View Solution](./LeetCode/Unknown/maximum-prime-difference) |
 | LeetCode | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/maximum-product-of-two-elements-in-an-array) |
+| LeetCode | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | cpp | [View Solution](./LeetCode/Hard/1235-maximum-profit-in-job-scheduling) |
 | LeetCode | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | cpp | [View Solution](./LeetCode/Unknown/maximum-score-from-removing-substrings) |
 | LeetCode | [Maximum Score of a Split](https://leetcode.com/problems/maximum-score-of-a-split/) | cpp | [View Solution](./LeetCode/Unknown/maximum-score-of-a-split) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | cpp | [View Solution](./LeetCode/Unknown/maximum-subarray) |
