@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-559_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-561_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 559 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 561 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **559** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **561** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -132,7 +132,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | cpp | [View Solution](./LeetCode/Unknown/construct-smallest-number-from-di-string) |
 | LeetCode | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | cpp | [View Solution](./LeetCode/Unknown/construct-uniform-parity-array-i) |
 | LeetCode | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | cpp | [View Solution](./LeetCode/Unknown/construct-uniform-parity-array-ii) |
-| LeetCode | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | cpp | [View Solution](./LeetCode/Unknown/container-with-most-water) |
+| LeetCode | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | cpp | [View Solution](./LeetCode/Medium/11-container-with-most-water) |
 | LeetCode | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | cpp | [View Solution](./LeetCode/Unknown/contains-duplicate) |
 | LeetCode | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | cpp | [View Solution](./LeetCode/Unknown/contains-duplicate-ii) |
 | LeetCode | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | cpp | [View Solution](./LeetCode/Unknown/convert-binary-number-in-a-linked-list-to-integer) |
@@ -429,6 +429,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | cpp | [View Solution](./LeetCode/Unknown/minimum-time-difference) |
 | LeetCode | [Minimum Time to Reach Destination in Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | cpp | [View Solution](./LeetCode/Unknown/minimum-time-to-reach-destination-in-directed-graph) |
 | LeetCode | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | cpp | [View Solution](./LeetCode/Medium/3987-minimum-total-cost-to-process-all-elements) |
+| LeetCode | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | cpp | [View Solution](./LeetCode/Unknown/minimum-total-price-after-applying-discounts) |
 | LeetCode | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | [View Solution](./LeetCode/Unknown/minimum-window-substring) |
 | LeetCode | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | cpp | [View Solution](./LeetCode/Unknown/minimum-xor-path-in-a-grid) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | cpp | [View Solution](./LeetCode/Unknown/mirror-distance-of-an-integer) |
@@ -467,7 +468,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-linked-list) |
 | LeetCode | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-partitioning) |
 | LeetCode | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | cpp | [View Solution](./LeetCode/Unknown/palindrome-partitioning-ii) |
-| LeetCode | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | cpp | [View Solution](./LeetCode/Unknown/palindromic-substrings) |
+| LeetCode | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | cpp | [View Solution](./LeetCode/Medium/647-palindromic-substrings) |
 | LeetCode | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | cpp | [View Solution](./LeetCode/Unknown/partition-array-according-to-given-pivot) |
 | LeetCode | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | cpp | [View Solution](./LeetCode/Unknown/partition-array-for-maximum-sum) |
 | LeetCode | [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | cpp | [View Solution](./LeetCode/Unknown/partition-array-into-k-distinct-groups) |
@@ -616,6 +617,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | cpp | [View Solution](./LeetCode/Unknown/vowel-consonant-score) |
 | LeetCode | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/vowels-game-in-a-string) |
 | LeetCode | [Water Bottles](https://leetcode.com/problems/water-bottles/) | cpp | [View Solution](./LeetCode/Unknown/water-bottles) |
+| LeetCode | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | cpp | [View Solution](./LeetCode/Unknown/weighted-sum-of-a-tree) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Unknown/weighted-word-mapping) |
 | LeetCode | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | cpp | [View Solution](./LeetCode/Hard/44-wildcard-matching) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Unknown/word-break) |
