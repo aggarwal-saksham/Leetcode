@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-562_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-561_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 562 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 561 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **562** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **561** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -178,7 +178,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | cpp | [View Solution](./LeetCode/Unknown/delete-node-in-a-bst) |
 | LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Medium/237-delete-node-in-a-linked-list) |
 | LeetCode | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | cpp | [View Solution](./LeetCode/Medium/583-delete-operation-for-two-strings) |
-| LeetCode | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | cpp | [View Solution](./LeetCode/Unknown/delete-the-middle-node-of-a-linked-list) |
 | LeetCode | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | cpp | [View Solution](./LeetCode/Unknown/design-browser-history) |
 | LeetCode | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | cpp | [View Solution](./LeetCode/Unknown/design-event-manager) |
 | LeetCode | [Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/) | cpp | [View Solution](./LeetCode/Unknown/design-ride-sharing-system) |
@@ -521,7 +520,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rotate Non Negative Elements](https://leetcode.com/problems/rotate-non-negative-elements/) | cpp | [View Solution](./LeetCode/Unknown/rotate-non-negative-elements) |
 | LeetCode | [Rotate String](https://leetcode.com/problems/rotate-string/) | cpp | [View Solution](./LeetCode/Unknown/rotate-string) |
 | LeetCode | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | cpp | [View Solution](./LeetCode/Unknown/rotting-oranges) |
-| LeetCode | [Same Tree](https://leetcode.com/problems/same-tree/) | cpp | [View Solution](./LeetCode/Unknown/same-tree) |
+| LeetCode | [Same Tree](https://leetcode.com/problems/same-tree/) | cpp | [View Solution](./LeetCode/Easy/100-same-tree) |
 | LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | cpp | [View Solution](./LeetCode/Unknown/search-a-2d-matrix) |
 | LeetCode | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/search-in-a-binary-search-tree) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
