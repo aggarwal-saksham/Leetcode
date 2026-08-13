@@ -1,5 +1,13 @@
 [
   {
+    "id": "2102640784",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786441470000,
+    "title": "Maximum Profit in Job Scheduling",
+    "titleSlug": "maximum-profit-in-job-scheduling"
+  },
+  {
     "id": "2102622918",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -7992,18 +8000,10 @@
     "titleSlug": "valid-parentheses"
   },
   {
-    "id": "1360055253",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723969182000,
-    "title": "Delete the Middle Node of a Linked List",
-    "titleSlug": "delete-the-middle-node-of-a-linked-list"
-  },
-  {
-    "id": "2102640784",
-    "title": "Maximum Profit in Job Scheduling",
-    "titleSlug": "maximum-profit-in-job-scheduling",
-    "timestamp": 1786441470000,
+    "id": "2104424449",
+    "title": "Same Tree",
+    "titleSlug": "same-tree",
+    "timestamp": 1786550970000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
