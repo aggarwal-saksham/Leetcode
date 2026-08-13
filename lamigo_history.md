@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-12 | Leetcode | Same Tree | cpp |
 | 2026-08-11 | Leetcode | Maximum Profit in Job Scheduling | cpp |
 | 2026-08-11 | Leetcode | Number of Islands | cpp |
 | 2026-08-11 | Leetcode | Course Schedule II | cpp |
@@ -1004,4 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-19 | Leetcode | Remove Nth Node From End of List | cpp |
 | 2024-08-19 | Leetcode | Odd Even Linked List | cpp |
 | 2024-08-18 | Leetcode | Valid Parentheses | cpp |
-| 2024-08-18 | Leetcode | Delete the Middle Node of a Linked List | cpp |
