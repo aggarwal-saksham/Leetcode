@@ -4,6 +4,14 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-29 | Leetcode | Lexicographically Largest String After Pair Transformations | cpp |
+| 2026-08-29 | Leetcode | Maximum Valid Split Positions I | cpp |
+| 2026-08-29 | Leetcode | Minimum Bishop Moves to Reach Target | cpp |
+| 2026-08-29 | Leetcode | Find All Numbers Disappeared in an Array II | cpp |
+| 2026-08-29 | Leetcode | Check ASCII Palindromic | cpp |
+| 2026-08-21 | Leetcode | Big Countries | mysql |
+| 2026-08-21 | Leetcode | Find Customer Referee | mysql |
+| 2026-08-21 | Leetcode | Recyclable and Low Fat Products | mysql |
 | 2026-08-12 | Leetcode | Same Tree | cpp |
 | 2026-08-11 | Leetcode | Maximum Profit in Job Scheduling | cpp |
 | 2026-08-11 | Leetcode | Number of Islands | cpp |
@@ -1001,7 +1009,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-08-20 | Leetcode | Sort Colors | cpp |
 | 2024-08-19 | Leetcode | Intersection of Two Linked Lists | cpp |
 | 2024-08-19 | Leetcode | Intersection of Two Linked Lists | cpp |
-| 2024-08-19 | Leetcode | Remove Nth Node From End of List | cpp |
-| 2024-08-19 | Leetcode | Remove Nth Node From End of List | cpp |
-| 2024-08-19 | Leetcode | Odd Even Linked List | cpp |
-| 2024-08-18 | Leetcode | Valid Parentheses | cpp |
