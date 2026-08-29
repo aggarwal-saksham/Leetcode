@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-561_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-569_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 561 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 569 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **561** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **569** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -87,6 +87,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | cpp | [View Solution](./LeetCode/Unknown/best-time-to-buy-and-sell-stock-v) |
 | LeetCode | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | cpp | [View Solution](./LeetCode/Medium/309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | LeetCode | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | cpp | [View Solution](./LeetCode/Medium/714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| LeetCode | [Big Countries](https://leetcode.com/problems/big-countries/) | mysql | [View Solution](./LeetCode/Easy/595-big-countries) |
 | LeetCode | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-iterator) |
 | LeetCode | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | cpp | [View Solution](./LeetCode/Unknown/binary-search-tree-to-greater-sum-tree) |
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Unknown/binary-subarrays-with-sum) |
@@ -107,6 +108,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Car Fleet](https://leetcode.com/problems/car-fleet/) | cpp | [View Solution](./LeetCode/Unknown/car-fleet) |
 | LeetCode | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | cpp | [View Solution](./LeetCode/Unknown/categorize-box-according-to-criteria) |
 | LeetCode | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | cpp | [View Solution](./LeetCode/Unknown/cheapest-flights-within-k-stops) |
+| LeetCode | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | cpp | [View Solution](./LeetCode/Easy/4030-check-ascii-palindromic) |
 | LeetCode | [Check Digitorial Permutation](https://leetcode.com/problems/check-digitorial-permutation/) | cpp | [View Solution](./LeetCode/Unknown/check-digitorial-permutation) |
 | LeetCode | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | cpp | [View Solution](./LeetCode/Unknown/check-good-integer) |
 | LeetCode | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | cpp | [View Solution](./LeetCode/Unknown/check-if-a-parentheses-string-can-be-valid) |
@@ -207,7 +209,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | cpp | [View Solution](./LeetCode/Medium/3286-find-a-safe-walk-through-a-grid) |
 | LeetCode | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | cpp | [View Solution](./LeetCode/Unknown/find-all-anagrams-in-a-string) |
 | LeetCode | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/find-all-k-distant-indices-in-an-array) |
+| LeetCode | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | cpp | [View Solution](./LeetCode/Medium/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | LeetCode | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | cpp | [View Solution](./LeetCode/Unknown/find-closest-person) |
+| LeetCode | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | mysql | [View Solution](./LeetCode/Unknown/find-customer-referee) |
 | LeetCode | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/find-elements-in-a-contaminated-binary-tree) |
 | LeetCode | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | cpp | [View Solution](./LeetCode/Unknown/find-eventual-safe-states) |
 | LeetCode | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | cpp | [View Solution](./LeetCode/Unknown/find-first-and-last-position-of-element-in-sorted-array) |
@@ -307,6 +311,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | cpp | [View Solution](./LeetCode/Unknown/length-of-last-word) |
 | LeetCode | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | cpp | [View Solution](./LeetCode/Unknown/letter-combinations-of-a-phone-number) |
 | LeetCode | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | cpp | [View Solution](./LeetCode/Unknown/letter-tile-possibilities) |
+| LeetCode | [Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | cpp | [View Solution](./LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations) |
 | LeetCode | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | cpp | [View Solution](./LeetCode/Unknown/lfu-cache) |
 | LeetCode | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | cpp | [View Solution](./LeetCode/Easy/141-linked-list-cycle) |
 | LeetCode | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | cpp | [View Solution](./LeetCode/Unknown/linked-list-cycle-ii) |
@@ -369,6 +374,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | cpp | [View Solution](./LeetCode/Unknown/maximum-sum-of-three-numbers-divisible-by-three) |
 | LeetCode | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-total-subarray-value-i) |
 | LeetCode | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | cpp | [View Solution](./LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements) |
+| LeetCode | [Maximum Valid Split Positions I](https://leetcode.com/problems/maximum-valid-split-positions-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-valid-split-positions-i) |
 | LeetCode | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | cpp | [View Solution](./LeetCode/Medium/3993-maximum-value-of-an-alternating-sequence) |
 | LeetCode | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-i) |
 | LeetCode | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | cpp | [View Solution](./LeetCode/Unknown/maximum-value-of-an-ordered-triplet-ii) |
@@ -390,6 +396,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | cpp | [View Solution](./LeetCode/Unknown/minimum-absolute-difference-between-two-values) |
 | LeetCode | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | cpp | [View Solution](./LeetCode/Unknown/minimum-add-to-make-parentheses-valid) |
 | LeetCode | [Minimum Adjacent Swaps to Alternate Parity](https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity/) | cpp | [View Solution](./LeetCode/Unknown/minimum-adjacent-swaps-to-alternate-parity) |
+| LeetCode | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | cpp | [View Solution](./LeetCode/Unknown/minimum-bishop-moves-to-reach-target) |
 | LeetCode | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | cpp | [View Solution](./LeetCode/Unknown/minimum-bit-flips-to-convert-number) |
 | LeetCode | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | cpp | [View Solution](./LeetCode/Unknown/minimum-capacity-box) |
 | LeetCode | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | cpp | [View Solution](./LeetCode/Medium/983-minimum-cost-for-tickets) |
@@ -493,6 +500,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | LeetCode | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | cpp | [View Solution](./LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair) |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
+| LeetCode | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | mysql | [View Solution](./LeetCode/Unknown/recyclable-and-low-fat-products) |
 | LeetCode | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | cpp | [View Solution](./LeetCode/Unknown/relative-ranks) |
 | LeetCode | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | cpp | [View Solution](./LeetCode/Unknown/remove-all-occurrences-of-a-substring) |
 | LeetCode | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | cpp | [View Solution](./LeetCode/Unknown/remove-digit-from-number-to-maximize-result) |
