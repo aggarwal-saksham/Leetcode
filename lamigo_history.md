@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-31 | Leetcode | Longest Consecutive Sequence | cpp |
+| 2026-08-30 | Leetcode | Count Integers Appearing in a Single Block | cpp |
 | 2026-08-29 | Leetcode | Lexicographically Largest String After Pair Transformations | cpp |
 | 2026-08-29 | Leetcode | Maximum Valid Split Positions I | cpp |
 | 2026-08-29 | Leetcode | Minimum Bishop Moves to Reach Target | cpp |
@@ -1003,9 +1005,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-09-03 | Leetcode | Next Greater Element I | cpp |
 | 2024-08-29 | Leetcode | Roman to Integer | cpp |
 | 2024-08-28 | Leetcode | Two Sum | cpp |
-| 2024-08-25 | Leetcode | Min Stack | cpp |
-| 2024-08-24 | Leetcode | Implement Queue using Stacks | cpp |
-| 2024-08-24 | Leetcode | Implement Stack using Queues | cpp |
-| 2024-08-20 | Leetcode | Sort Colors | cpp |
-| 2024-08-19 | Leetcode | Intersection of Two Linked Lists | cpp |
-| 2024-08-19 | Leetcode | Intersection of Two Linked Lists | cpp |
