@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-569_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-570_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 569 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 570 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **569** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **570** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -150,6 +150,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | cpp | [View Solution](./LeetCode/Unknown/count-dominant-indices) |
 | LeetCode | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | cpp | [View Solution](./LeetCode/Unknown/count-good-numbers) |
 | LeetCode | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | cpp | [View Solution](./LeetCode/Unknown/count-hills-and-valleys-in-an-array) |
+| LeetCode | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | cpp | [View Solution](./LeetCode/Easy/4038-count-integers-appearing-in-a-single-block) |
 | LeetCode | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | cpp | [View Solution](./LeetCode/Unknown/count-number-of-bad-pairs) |
 | LeetCode | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | cpp | [View Solution](./LeetCode/Unknown/count-number-of-maximum-bitwise-or-subsets) |
 | LeetCode | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | cpp | [View Solution](./LeetCode/Unknown/count-number-of-nice-subarrays) |
@@ -320,7 +321,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | cpp | [View Solution](./LeetCode/Unknown/longest-common-prefix) |
 | LeetCode | [Longest Common Prefix Between Adjacent Strings After Removals](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/) | cpp | [View Solution](./LeetCode/Unknown/longest-common-prefix-between-adjacent-strings-after-removals) |
 | LeetCode | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | cpp | [View Solution](./LeetCode/Medium/1143-longest-common-subsequence) |
-| LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-consecutive-sequence) |
+| LeetCode | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | cpp | [View Solution](./LeetCode/Medium/128-longest-consecutive-sequence) |
 | LeetCode | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | cpp | [View Solution](./LeetCode/Unknown/longest-harmonious-subsequence) |
 | LeetCode | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | cpp | [View Solution](./LeetCode/Medium/300-longest-increasing-subsequence) |
 | LeetCode | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | cpp | [View Solution](./LeetCode/Medium/516-longest-palindromic-subsequence) |
@@ -500,7 +501,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | LeetCode | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | cpp | [View Solution](./LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair) |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
-| LeetCode | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | mysql | [View Solution](./LeetCode/Unknown/recyclable-and-low-fat-products) |
+| LeetCode | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | mysql | [View Solution](./LeetCode/Easy/1757-recyclable-and-low-fat-products) |
 | LeetCode | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | cpp | [View Solution](./LeetCode/Unknown/relative-ranks) |
 | LeetCode | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | cpp | [View Solution](./LeetCode/Unknown/remove-all-occurrences-of-a-substring) |
 | LeetCode | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | cpp | [View Solution](./LeetCode/Unknown/remove-digit-from-number-to-maximize-result) |
