@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-17 | Leetcode | Invalid Tweets | mysql |
+| 2026-10-17 | Leetcode | Article Views I | mysql |
 | 2026-08-31 | Leetcode | Longest Consecutive Sequence | cpp |
 | 2026-08-30 | Leetcode | Count Integers Appearing in a Single Block | cpp |
 | 2026-08-29 | Leetcode | Lexicographically Largest String After Pair Transformations | cpp |
@@ -1004,4 +1006,3 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-09-10 | Leetcode | Reverse Words in a String | cpp |
 | 2024-09-03 | Leetcode | Next Greater Element I | cpp |
 | 2024-08-29 | Leetcode | Roman to Integer | cpp |
-| 2024-08-28 | Leetcode | Two Sum | cpp |
