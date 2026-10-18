@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-570_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-572_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-0_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 570 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 572 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 0 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **570** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **572** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -75,6 +75,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/all-nodes-distance-k-in-binary-tree) |
 | LeetCode | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | cpp | [View Solution](./LeetCode/Unknown/amount-of-time-for-binary-tree-to-be-infected) |
 | LeetCode | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | cpp | [View Solution](./LeetCode/Unknown/apply-operations-to-an-array) |
+| LeetCode | [Article Views I](https://leetcode.com/problems/article-views-i/) | mysql | [View Solution](./LeetCode/Easy/1148-article-views-i) |
 | LeetCode | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | cpp | [View Solution](./LeetCode/Unknown/assign-cookies) |
 | LeetCode | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | cpp | [View Solution](./LeetCode/Unknown/asteroid-collision) |
 | LeetCode | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/balanced-binary-tree) |
@@ -290,6 +291,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/insert-into-a-binary-search-tree) |
 | LeetCode | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | cpp | [View Solution](./LeetCode/Unknown/integer-to-roman) |
 | LeetCode | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | cpp | [View Solution](./LeetCode/Easy/160-intersection-of-two-linked-lists) |
+| LeetCode | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | mysql | [View Solution](./LeetCode/Unknown/invalid-tweets) |
 | LeetCode | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/invert-binary-tree) |
 | LeetCode | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | cpp | [View Solution](./LeetCode/Unknown/is-graph-bipartite) |
 | LeetCode | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | cpp | [View Solution](./LeetCode/Unknown/isomorphic-strings) |
